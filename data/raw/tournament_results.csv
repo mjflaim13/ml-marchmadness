@@ -1,0 +1,1008 @@
+Year,Round,GameID,WinningTeam,WinningSeed,WinningScore,LosingTeam,LosingSeed,LosingScore,ScoreDiff
+2008,E8,977,North Carolina,1,113.0,Mount St. Mary's,16,74.0,39.0
+2008,Round32,978,Arkansas,9,86.0,Indiana,8,72.0,14.0
+2008,Round32,979,Notre Dame,5,68.0,George Mason,12,50.0,18.0
+2008,Round16,980,Washington St.,4,71.0,Winthrop,13,40.0,31.0
+2008,Round32,981,Oklahoma,6,72.0,Saint Joseph's,11,64.0,8.0
+2008,Round8,982,Louisville,3,79.0,Boise St.,14,61.0,18.0
+2008,Round32,983,Butler,7,81.0,South Alabama,10,61.0,20.0
+2008,Round16,984,Tennessee,2,72.0,American,15,57.0,15.0
+2008,R64,985,Kansas,1,85.0,Portland St.,16,61.0,24.0
+2008,Round32,986,UNLV,8,71.0,Kent St.,9,58.0,13.0
+2008,Round16,987,Villanova,12,75.0,Clemson,5,69.0,6.0
+2008,Round32,988,Siena,13,83.0,Vanderbilt,4,62.0,21.0
+2008,Round32,989,Kansas St.,11,80.0,Southern California,6,67.0,13.0
+2008,Round16,990,Wisconsin,3,71.0,Cal St. Fullerton,14,56.0,15.0
+2008,Round8,991,Davidson,10,82.0,Gonzaga,7,76.0,6.0
+2008,Round32,992,Georgetown,2,66.0,UMBC,15,47.0,19.0
+2008,R32,993,Memphis,1,87.0,UT Arlington,16,63.0,24.0
+2008,Round32,994,Mississippi St.,8,76.0,Oregon,9,69.0,7.0
+2008,Round16,995,Michigan St.,5,72.0,Temple,12,61.0,11.0
+2008,Round32,996,Pittsburgh,4,82.0,Oral Roberts,13,63.0,19.0
+2008,Round32,997,Marquette,6,74.0,Kentucky,11,66.0,8.0
+2008,Round16,998,Stanford,3,77.0,Cornell,14,53.0,24.0
+2008,Round32,999,Miami FL,7,78.0,Saint Mary's,10,64.0,14.0
+2008,Round8,1000,Texas,2,74.0,Austin Peay,15,54.0,20.0
+2008,E8,1001,UCLA,1,70.0,Mississippi Valley St.,16,29.0,41.0
+2008,Round32,1002,Texas A&M,9,67.0,BYU,8,62.0,5.0
+2008,Round16,1003,Western Kentucky,12,101.0,Drake,5,99.0,2.0
+2008,Round32,1004,San Diego,13,70.0,Connecticut,4,69.0,1.0
+2008,Round32,1005,Purdue,6,90.0,Baylor,11,79.0,11.0
+2008,Round8,1006,Xavier,3,73.0,Georgia,14,61.0,12.0
+2008,Round16,1007,West Virginia,7,75.0,Arizona,10,65.0,10.0
+2008,Round32,1008,Duke,2,71.0,Belmont,15,70.0,1.0
+2008,E8,1009,North Carolina,1,108.0,Arkansas,9,77.0,31.0
+2008,Round16,1010,Washington St.,4,61.0,Notre Dame,5,41.0,20.0
+2008,Round8,1011,Louisville,3,78.0,Oklahoma,6,48.0,30.0
+2008,Round16,1012,Tennessee,2,76.0,Butler,7,71.0,5.0
+2008,R64,1013,Kansas,1,75.0,UNLV,8,56.0,19.0
+2008,Round16,1014,Villanova,12,84.0,Siena,13,72.0,12.0
+2008,Round16,1015,Wisconsin,3,72.0,Kansas St.,11,55.0,17.0
+2008,Round8,1016,Davidson,10,74.0,Georgetown,2,70.0,4.0
+2008,R32,1017,Memphis,1,77.0,Mississippi St.,8,74.0,3.0
+2008,Round16,1018,Michigan St.,5,65.0,Pittsburgh,4,54.0,11.0
+2008,Round16,1019,Stanford,3,82.0,Marquette,6,81.0,1.0
+2008,Round8,1020,Texas,2,75.0,Miami FL,7,72.0,3.0
+2008,E8,1021,UCLA,1,51.0,Texas A&M,9,49.0,2.0
+2008,Round16,1022,Western Kentucky,12,72.0,San Diego,13,63.0,9.0
+2008,Round8,1023,Xavier,3,85.0,Purdue,6,78.0,7.0
+2008,Round16,1024,West Virginia,7,73.0,Duke,2,67.0,6.0
+2008,E8,1025,North Carolina,1,68.0,Washington St.,4,47.0,21.0
+2008,Round8,1026,Louisville,3,79.0,Tennessee,2,60.0,19.0
+2008,R64,1027,Kansas,1,72.0,Villanova,12,57.0,15.0
+2008,Round8,1028,Davidson,10,73.0,Wisconsin,3,56.0,17.0
+2008,R32,1029,Memphis,1,92.0,Michigan St.,5,74.0,18.0
+2008,Round8,1030,Texas,2,82.0,Stanford,3,62.0,20.0
+2008,E8,1031,UCLA,1,88.0,Western Kentucky,12,78.0,10.0
+2008,Round8,1032,Xavier,3,79.0,West Virginia,7,75.0,4.0
+2008,E8,1033,North Carolina,1,83.0,Louisville,3,73.0,10.0
+2008,R64,1034,Kansas,1,59.0,Davidson,10,57.0,2.0
+2008,R32,1035,Memphis,1,85.0,Texas,2,67.0,18.0
+2008,E8,1036,UCLA,1,76.0,Xavier,3,57.0,19.0
+2008,R64,1037,Kansas,1,84.0,North Carolina,1,66.0,18.0
+2008,R32,1038,Memphis,1,78.0,UCLA,1,63.0,15.0
+2008,R64,1039,Kansas,1,75.0,Memphis,1,68.0,7.0
+2009,Round8,914,Louisville,1,74.0,Morehead St.,16,54.0,20.0
+2009,Round32,915,Siena,9,74.0,Ohio St.,8,72.0,2.0
+2009,Round16,916,Arizona,12,84.0,Utah,5,71.0,13.0
+2009,Round32,917,Cleveland St.,13,84.0,Wake Forest,4,69.0,15.0
+2009,Round32,918,Dayton,11,68.0,West Virginia,6,60.0,8.0
+2009,Round16,919,Kansas,3,84.0,North Dakota St.,14,74.0,10.0
+2009,Round32,920,Southern California,10,72.0,Boston College,7,55.0,17.0
+2009,R32,921,Michigan St.,2,77.0,Robert Morris,15,62.0,15.0
+2009,E8,922,Connecticut,1,103.0,Chattanooga,16,47.0,56.0
+2009,Round32,923,Texas A&M,9,79.0,BYU,8,66.0,13.0
+2009,Round16,924,Purdue,5,61.0,Northern Iowa,12,56.0,5.0
+2009,Round32,925,Washington,4,71.0,Mississippi St.,13,58.0,13.0
+2009,Round32,926,Marquette,6,58.0,Utah St.,11,57.0,1.0
+2009,Round8,927,Missouri,3,78.0,Cornell,14,59.0,19.0
+2009,Round32,928,Maryland,10,84.0,California,7,71.0,13.0
+2009,Round16,929,Memphis,2,81.0,Cal St. Northridge,15,70.0,11.0
+2009,Round8,930,Pittsburgh,1,72.0,East Tennessee St.,16,62.0,10.0
+2009,Round32,931,Oklahoma St.,8,77.0,Tennessee,9,75.0,2.0
+2009,Round32,932,Wisconsin,12,61.0,Florida St.,5,59.0,2.0
+2009,Round16,933,Xavier,4,77.0,Portland St.,13,59.0,18.0
+2009,Round32,934,UCLA,6,65.0,VCU,11,64.0,1.0
+2009,E8,935,Villanova,3,80.0,American,14,67.0,13.0
+2009,Round32,936,Texas,7,76.0,Minnesota,10,62.0,14.0
+2009,Round16,937,Duke,2,86.0,Binghamton,15,62.0,24.0
+2009,R64,938,North Carolina,1,101.0,Radford,16,58.0,43.0
+2009,Round32,939,LSU,8,75.0,Butler,9,71.0,4.0
+2009,Round32,940,Western Kentucky,12,76.0,Illinois,5,72.0,4.0
+2009,Round16,941,Gonzaga,4,77.0,Akron,13,64.0,13.0
+2009,Round32,942,Arizona St.,6,66.0,Temple,11,57.0,9.0
+2009,Round16,943,Syracuse,3,59.0,Stephen F. Austin,14,44.0,15.0
+2009,Round32,944,Michigan,10,62.0,Clemson,7,59.0,3.0
+2009,Round8,945,Oklahoma,2,82.0,Morgan St.,15,54.0,28.0
+2009,Round8,946,Louisville,1,79.0,Siena,9,72.0,7.0
+2009,Round16,947,Arizona,12,71.0,Cleveland St.,13,57.0,14.0
+2009,Round16,948,Kansas,3,60.0,Dayton,11,43.0,17.0
+2009,R32,949,Michigan St.,2,74.0,Southern California,10,69.0,5.0
+2009,E8,950,Connecticut,1,92.0,Texas A&M,9,66.0,26.0
+2009,Round16,951,Purdue,5,76.0,Washington,4,74.0,2.0
+2009,Round8,952,Missouri,3,83.0,Marquette,6,79.0,4.0
+2009,Round16,953,Memphis,2,89.0,Maryland,10,70.0,19.0
+2009,Round8,954,Pittsburgh,1,84.0,Oklahoma St.,8,76.0,8.0
+2009,Round16,955,Xavier,4,60.0,Wisconsin,12,49.0,11.0
+2009,E8,956,Villanova,3,89.0,UCLA,6,69.0,20.0
+2009,Round16,957,Duke,2,74.0,Texas,7,69.0,5.0
+2009,R64,958,North Carolina,1,84.0,LSU,8,70.0,14.0
+2009,Round16,959,Gonzaga,4,83.0,Western Kentucky,12,81.0,2.0
+2009,Round16,960,Syracuse,3,78.0,Arizona St.,6,67.0,11.0
+2009,Round8,961,Oklahoma,2,73.0,Michigan,10,63.0,10.0
+2009,Round8,962,Louisville,1,103.0,Arizona,12,64.0,39.0
+2009,R32,963,Michigan St.,2,67.0,Kansas,3,62.0,5.0
+2009,E8,964,Connecticut,1,72.0,Purdue,5,60.0,12.0
+2009,Round8,965,Missouri,3,102.0,Memphis,2,91.0,11.0
+2009,Round8,966,Pittsburgh,1,60.0,Xavier,4,55.0,5.0
+2009,E8,967,Villanova,3,77.0,Duke,2,54.0,23.0
+2009,R64,968,North Carolina,1,98.0,Gonzaga,4,77.0,21.0
+2009,Round8,969,Oklahoma,2,84.0,Syracuse,3,71.0,13.0
+2009,R32,970,Michigan St.,2,64.0,Louisville,1,52.0,12.0
+2009,E8,971,Connecticut,1,82.0,Missouri,3,75.0,7.0
+2009,E8,972,Villanova,3,78.0,Pittsburgh,1,76.0,2.0
+2009,R64,973,North Carolina,1,72.0,Oklahoma,2,60.0,12.0
+2009,R32,974,Michigan St.,2,82.0,Connecticut,1,73.0,9.0
+2009,R64,975,North Carolina,1,83.0,Villanova,3,69.0,14.0
+2009,R64,976,North Carolina,1,89.0,Michigan St.,2,72.0,17.0
+2010,Round32,851,Kansas,1,90.0,Lehigh,16,74.0,16.0
+2010,Round16,852,Northern Iowa,9,69.0,UNLV,8,66.0,3.0
+2010,E8,853,Michigan St.,5,70.0,New Mexico St.,12,67.0,3.0
+2010,Round32,854,Maryland,4,89.0,Houston,13,77.0,12.0
+2010,Round8,855,Tennessee,6,62.0,San Diego St.,11,59.0,3.0
+2010,Round32,856,Ohio,14,97.0,Georgetown,3,83.0,14.0
+2010,Round32,857,Georgia Tech,10,64.0,Oklahoma St.,7,59.0,5.0
+2010,Round16,858,Ohio St.,2,68.0,UC Santa Barbara,15,51.0,17.0
+2010,Round16,859,Syracuse,1,79.0,Vermont,16,56.0,23.0
+2010,Round32,860,Gonzaga,8,67.0,Florida St.,9,60.0,7.0
+2010,R32,861,Butler,5,77.0,UTEP,12,59.0,18.0
+2010,Round32,862,Murray St.,13,66.0,Vanderbilt,4,65.0,1.0
+2010,Round16,863,Xavier,6,65.0,Minnesota,11,54.0,11.0
+2010,Round32,864,Pittsburgh,3,89.0,Oakland,14,66.0,23.0
+2010,Round32,865,BYU,7,99.0,Florida,10,92.0,7.0
+2010,Round8,866,Kansas St.,2,82.0,North Texas,15,62.0,20.0
+2010,Round8,867,Kentucky,1,100.0,East Tennessee St.,16,71.0,29.0
+2010,Round32,868,Wake Forest,9,81.0,Texas,8,80.0,1.0
+2010,Round16,869,Cornell,12,78.0,Temple,5,65.0,13.0
+2010,Round32,870,Wisconsin,4,53.0,Wofford,13,49.0,4.0
+2010,Round16,871,Washington,11,80.0,Marquette,6,78.0,2.0
+2010,Round32,872,New Mexico,3,62.0,Montana,14,57.0,5.0
+2010,Round32,873,Missouri,10,86.0,Clemson,7,78.0,8.0
+2010,E8,874,West Virginia,2,77.0,Morgan St.,15,50.0,27.0
+2010,R64,875,Duke,1,73.0,Arkansas Pine Bluff,16,44.0,29.0
+2010,Round32,876,California,8,77.0,Louisville,9,62.0,15.0
+2010,Round32,877,Texas A&M,5,69.0,Utah St.,12,53.0,16.0
+2010,Round16,878,Purdue,4,72.0,Siena,13,64.0,8.0
+2010,Round32,879,Old Dominion,11,51.0,Notre Dame,6,50.0,1.0
+2010,Round8,880,Baylor,3,68.0,Sam Houston St.,14,59.0,9.0
+2010,Round16,881,Saint Mary's,10,80.0,Richmond,7,71.0,9.0
+2010,Round32,882,Villanova,2,73.0,Robert Morris,15,70.0,3.0
+2010,Round16,883,Northern Iowa,9,69.0,Kansas,1,67.0,2.0
+2010,E8,884,Michigan St.,5,85.0,Maryland,4,83.0,2.0
+2010,Round8,885,Tennessee,6,83.0,Ohio,14,68.0,15.0
+2010,Round16,886,Ohio St.,2,75.0,Georgia Tech,10,66.0,9.0
+2010,Round16,887,Syracuse,1,87.0,Gonzaga,8,65.0,22.0
+2010,R32,888,Butler,5,54.0,Murray St.,13,52.0,2.0
+2010,Round16,889,Xavier,6,71.0,Pittsburgh,3,68.0,3.0
+2010,Round8,890,Kansas St.,2,84.0,BYU,7,72.0,12.0
+2010,Round8,891,Kentucky,1,90.0,Wake Forest,9,60.0,30.0
+2010,Round16,892,Cornell,12,87.0,Wisconsin,4,69.0,18.0
+2010,Round16,893,Washington,11,82.0,New Mexico,3,64.0,18.0
+2010,E8,894,West Virginia,2,68.0,Missouri,10,59.0,9.0
+2010,R64,895,Duke,1,68.0,California,8,53.0,15.0
+2010,Round16,896,Purdue,4,63.0,Texas A&M,5,61.0,2.0
+2010,Round8,897,Baylor,3,76.0,Old Dominion,11,68.0,8.0
+2010,Round16,898,Saint Mary's,10,75.0,Villanova,2,68.0,7.0
+2010,E8,899,Michigan St.,5,59.0,Northern Iowa,9,52.0,7.0
+2010,Round8,900,Tennessee,6,76.0,Ohio St.,2,73.0,3.0
+2010,R32,901,Butler,5,63.0,Syracuse,1,59.0,4.0
+2010,Round8,902,Kansas St.,2,101.0,Xavier,6,96.0,5.0
+2010,Round8,903,Kentucky,1,62.0,Cornell,12,45.0,17.0
+2010,E8,904,West Virginia,2,69.0,Washington,11,56.0,13.0
+2010,R64,905,Duke,1,70.0,Purdue,4,57.0,13.0
+2010,Round8,906,Baylor,3,72.0,Saint Mary's,10,49.0,23.0
+2010,E8,907,Michigan St.,5,70.0,Tennessee,6,69.0,1.0
+2010,R32,908,Butler,5,63.0,Kansas St.,2,56.0,7.0
+2010,E8,909,West Virginia,2,73.0,Kentucky,1,66.0,7.0
+2010,R64,910,Duke,1,78.0,Baylor,3,71.0,7.0
+2010,R32,911,Butler,5,52.0,Michigan St.,5,50.0,2.0
+2010,R64,912,Duke,1,78.0,West Virginia,2,57.0,21.0
+2010,R64,913,Duke,1,61.0,Butler,5,59.0,2.0
+2011,Round16,788,Ohio St.,1,75.0,UTSA,16,46.0,29.0
+2011,Round32,789,George Mason,8,61.0,Villanova,9,57.0,4.0
+2011,Round32,790,West Virginia,5,84.0,Clemson,12,76.0,8.0
+2011,E8,791,Kentucky,4,59.0,Princeton,13,57.0,2.0
+2011,Round16,792,Marquette,11,66.0,Xavier,6,55.0,11.0
+2011,Round32,793,Syracuse,3,77.0,Indiana St.,14,60.0,17.0
+2011,Round32,794,Washington,7,68.0,Georgia,10,65.0,3.0
+2011,Round8,795,North Carolina,2,102.0,LIU Brooklyn,15,87.0,15.0
+2011,Round16,796,Duke,1,87.0,Hampton,16,45.0,42.0
+2011,Round32,797,Michigan,8,75.0,Tennessee,9,45.0,30.0
+2011,Round8,798,Arizona,5,77.0,Memphis,12,75.0,2.0
+2011,Round32,799,Texas,4,85.0,Oakland,13,81.0,4.0
+2011,Round32,800,Cincinnati,6,78.0,Missouri,11,63.0,15.0
+2011,R64,801,Connecticut,3,81.0,Bucknell,14,52.0,29.0
+2011,Round32,802,Temple,7,66.0,Penn St.,10,64.0,2.0
+2011,Round16,803,San Diego St.,2,68.0,Northern Colorado,15,50.0,18.0
+2011,Round8,804,Kansas,1,72.0,Boston University,16,53.0,19.0
+2011,Round32,805,Illinois,9,73.0,UNLV,8,62.0,11.0
+2011,Round16,806,Richmond,12,69.0,Vanderbilt,5,66.0,3.0
+2011,Round32,807,Morehead St.,13,62.0,Louisville,4,61.0,1.0
+2011,E8,808,VCU,11,74.0,Georgetown,6,56.0,18.0
+2011,Round32,809,Purdue,3,65.0,Saint Peter's,14,43.0,22.0
+2011,Round16,810,Florida St.,10,57.0,Texas A&M,7,50.0,7.0
+2011,Round32,811,Notre Dame,2,69.0,Akron,15,56.0,13.0
+2011,Round32,812,Pittsburgh,1,74.0,UNC Asheville,16,51.0,23.0
+2011,R32,813,Butler,8,60.0,Old Dominion,9,58.0,2.0
+2011,Round32,814,Kansas St.,5,73.0,Utah St.,12,68.0,5.0
+2011,Round16,815,Wisconsin,4,72.0,Belmont,13,58.0,14.0
+2011,Round32,816,Gonzaga,11,86.0,St. John's,6,71.0,15.0
+2011,Round16,817,BYU,3,74.0,Wofford,14,66.0,8.0
+2011,Round32,818,UCLA,7,78.0,Michigan St.,10,76.0,2.0
+2011,Round8,819,Florida,2,79.0,UC Santa Barbara,15,51.0,28.0
+2011,Round16,820,Ohio St.,1,98.0,George Mason,8,66.0,32.0
+2011,E8,821,Kentucky,4,71.0,West Virginia,5,63.0,8.0
+2011,Round16,822,Marquette,11,66.0,Syracuse,3,62.0,4.0
+2011,Round8,823,North Carolina,2,86.0,Washington,7,83.0,3.0
+2011,Round16,824,Duke,1,73.0,Michigan,8,71.0,2.0
+2011,Round8,825,Arizona,5,70.0,Texas,4,69.0,1.0
+2011,R64,826,Connecticut,3,69.0,Cincinnati,6,58.0,11.0
+2011,Round16,827,San Diego St.,2,71.0,Temple,7,64.0,7.0
+2011,Round8,828,Kansas,1,73.0,Illinois,9,59.0,14.0
+2011,Round16,829,Richmond,12,65.0,Morehead St.,13,48.0,17.0
+2011,E8,830,VCU,11,94.0,Purdue,3,76.0,18.0
+2011,Round16,831,Florida St.,10,71.0,Notre Dame,2,57.0,14.0
+2011,R32,832,Butler,8,71.0,Pittsburgh,1,70.0,1.0
+2011,Round16,833,Wisconsin,4,70.0,Kansas St.,5,65.0,5.0
+2011,Round16,834,BYU,3,89.0,Gonzaga,11,67.0,22.0
+2011,Round8,835,Florida,2,73.0,UCLA,7,65.0,8.0
+2011,E8,836,Kentucky,4,62.0,Ohio St.,1,60.0,2.0
+2011,Round8,837,North Carolina,2,81.0,Marquette,11,63.0,18.0
+2011,Round8,838,Arizona,5,93.0,Duke,1,77.0,16.0
+2011,R64,839,Connecticut,3,74.0,San Diego St.,2,67.0,7.0
+2011,Round8,840,Kansas,1,77.0,Richmond,12,57.0,20.0
+2011,E8,841,VCU,11,72.0,Florida St.,10,71.0,1.0
+2011,R32,842,Butler,8,61.0,Wisconsin,4,54.0,7.0
+2011,Round8,843,Florida,2,83.0,BYU,3,74.0,9.0
+2011,E8,844,Kentucky,4,76.0,North Carolina,2,69.0,7.0
+2011,R64,845,Connecticut,3,65.0,Arizona,5,63.0,2.0
+2011,E8,846,VCU,11,71.0,Kansas,1,61.0,10.0
+2011,R32,847,Butler,8,74.0,Florida,2,71.0,3.0
+2011,R64,848,Connecticut,3,56.0,Kentucky,4,55.0,1.0
+2011,R32,849,Butler,8,70.0,VCU,11,62.0,8.0
+2011,R64,850,Connecticut,3,53.0,Butler,8,41.0,12.0
+2012,R64,725,Kentucky,1,81.0,Western Kentucky,16,66.0,15.0
+2012,Round32,726,Iowa St.,8,77.0,Connecticut,9,64.0,13.0
+2012,Round32,727,VCU,12,62.0,Wichita St.,5,59.0,3.0
+2012,Round16,728,Indiana,4,79.0,New Mexico St.,13,66.0,13.0
+2012,Round32,729,Colorado,11,68.0,UNLV,6,64.0,4.0
+2012,Round8,730,Baylor,3,68.0,South Dakota St.,14,60.0,8.0
+2012,Round16,731,Xavier,10,67.0,Notre Dame,7,63.0,4.0
+2012,Round32,732,Lehigh,15,75.0,Duke,2,70.0,5.0
+2012,Round16,733,Michigan St.,1,89.0,LIU Brooklyn,16,67.0,22.0
+2012,Round32,734,Saint Louis,9,61.0,Memphis,8,54.0,7.0
+2012,Round32,735,New Mexico,5,75.0,Long Beach St.,12,68.0,7.0
+2012,E8,736,Louisville,4,69.0,Davidson,13,62.0,7.0
+2012,Round32,737,Murray St.,6,58.0,Colorado St.,11,41.0,17.0
+2012,Round16,738,Marquette,3,88.0,BYU,14,68.0,20.0
+2012,Round8,739,Florida,7,71.0,Virginia,10,45.0,26.0
+2012,Round32,740,Norfolk St.,15,86.0,Missouri,2,84.0,2.0
+2012,Round8,741,Syracuse,1,72.0,UNC Asheville,16,65.0,7.0
+2012,Round32,742,Kansas St.,8,70.0,Southern Miss,9,64.0,6.0
+2012,Round32,743,Vanderbilt,5,79.0,Harvard,12,70.0,9.0
+2012,Round16,744,Wisconsin,4,73.0,Montana,13,49.0,24.0
+2012,Round16,745,Cincinnati,6,65.0,Texas,11,59.0,6.0
+2012,Round32,746,Florida St.,3,66.0,St. Bonaventure,14,63.0,3.0
+2012,Round32,747,Gonzaga,7,77.0,West Virginia,10,54.0,23.0
+2012,E8,748,Ohio St.,2,78.0,Loyola MD,15,59.0,19.0
+2012,Round8,749,North Carolina,1,77.0,Vermont,16,58.0,19.0
+2012,Round32,750,Creighton,8,58.0,Alabama,9,57.0,1.0
+2012,Round32,751,South Florida,12,58.0,Temple,5,44.0,14.0
+2012,Round16,752,Ohio,13,65.0,Michigan,4,60.0,5.0
+2012,Round16,753,North Carolina St.,11,79.0,San Diego St.,6,65.0,14.0
+2012,Round32,754,Georgetown,3,74.0,Belmont,14,59.0,15.0
+2012,Round32,755,Purdue,10,72.0,Saint Mary's,7,69.0,3.0
+2012,R32,756,Kansas,2,65.0,Detroit,15,50.0,15.0
+2012,R64,757,Kentucky,1,87.0,Iowa St.,8,71.0,16.0
+2012,Round16,758,Indiana,4,63.0,VCU,12,61.0,2.0
+2012,Round8,759,Baylor,3,80.0,Colorado,11,63.0,17.0
+2012,Round16,760,Xavier,10,70.0,Lehigh,15,58.0,12.0
+2012,Round16,761,Michigan St.,1,65.0,Saint Louis,9,61.0,4.0
+2012,E8,762,Louisville,4,59.0,New Mexico,5,56.0,3.0
+2012,Round16,763,Marquette,3,62.0,Murray St.,6,53.0,9.0
+2012,Round8,764,Florida,7,84.0,Norfolk St.,15,50.0,34.0
+2012,Round8,765,Syracuse,1,75.0,Kansas St.,8,59.0,16.0
+2012,Round16,766,Wisconsin,4,60.0,Vanderbilt,5,57.0,3.0
+2012,Round16,767,Cincinnati,6,62.0,Florida St.,3,56.0,6.0
+2012,E8,768,Ohio St.,2,73.0,Gonzaga,7,66.0,7.0
+2012,Round8,769,North Carolina,1,87.0,Creighton,8,73.0,14.0
+2012,Round16,770,Ohio,13,62.0,South Florida,12,56.0,6.0
+2012,Round16,771,North Carolina St.,11,66.0,Georgetown,3,63.0,3.0
+2012,R32,772,Kansas,2,63.0,Purdue,10,60.0,3.0
+2012,R64,773,Kentucky,1,102.0,Indiana,4,90.0,12.0
+2012,Round8,774,Baylor,3,75.0,Xavier,10,70.0,5.0
+2012,E8,775,Louisville,4,57.0,Michigan St.,1,44.0,13.0
+2012,Round8,776,Florida,7,68.0,Marquette,3,58.0,10.0
+2012,Round8,777,Syracuse,1,64.0,Wisconsin,4,63.0,1.0
+2012,E8,778,Ohio St.,2,81.0,Cincinnati,6,66.0,15.0
+2012,Round8,779,North Carolina,1,73.0,Ohio,13,65.0,8.0
+2012,R32,780,Kansas,2,60.0,North Carolina St.,11,57.0,3.0
+2012,R64,781,Kentucky,1,82.0,Baylor,3,70.0,12.0
+2012,E8,782,Louisville,4,72.0,Florida,7,68.0,4.0
+2012,E8,783,Ohio St.,2,77.0,Syracuse,1,70.0,7.0
+2012,R32,784,Kansas,2,80.0,North Carolina,1,67.0,13.0
+2012,R64,785,Kentucky,1,69.0,Louisville,4,61.0,8.0
+2012,R32,786,Kansas,2,64.0,Ohio St.,2,62.0,2.0
+2012,R64,787,Kentucky,1,67.0,Kansas,2,59.0,8.0
+2013,R64,662,Louisville,1,79.0,North Carolina A&T,16,48.0,31.0
+2013,Round32,663,Colorado St.,8,84.0,Missouri,9,72.0,12.0
+2013,Round16,664,Oregon,12,68.0,Oklahoma St.,5,55.0,13.0
+2013,Round32,665,Saint Louis,4,64.0,New Mexico St.,13,44.0,20.0
+2013,Round32,666,Memphis,6,54.0,Saint Mary's,11,52.0,2.0
+2013,Round16,667,Michigan St.,3,65.0,Valparaiso,14,54.0,11.0
+2013,Round32,668,Creighton,7,67.0,Cincinnati,10,63.0,4.0
+2013,Round8,669,Duke,2,73.0,Albany,15,61.0,12.0
+2013,Round32,670,Gonzaga,1,64.0,Southern,16,58.0,6.0
+2013,E8,671,Wichita St.,9,73.0,Pittsburgh,8,55.0,18.0
+2013,Round32,672,Mississippi,12,57.0,Wisconsin,5,46.0,11.0
+2013,Round16,673,La Salle,13,63.0,Kansas St.,4,61.0,2.0
+2013,Round16,674,Arizona,6,81.0,Belmont,11,64.0,17.0
+2013,Round32,675,Harvard,14,68.0,New Mexico,3,62.0,6.0
+2013,Round32,676,Iowa St.,10,76.0,Notre Dame,7,58.0,18.0
+2013,Round8,677,Ohio St.,2,95.0,Iona,15,70.0,25.0
+2013,Round16,678,Kansas,1,64.0,Western Kentucky,16,57.0,7.0
+2013,Round32,679,North Carolina,8,78.0,Villanova,9,71.0,7.0
+2013,Round32,680,VCU,5,88.0,Akron,12,42.0,46.0
+2013,R32,681,Michigan,4,71.0,South Dakota St.,13,56.0,15.0
+2013,Round32,682,Minnesota,11,83.0,UCLA,6,63.0,20.0
+2013,Round8,683,Florida,3,79.0,Northwestern St.,14,47.0,32.0
+2013,Round32,684,San Diego St.,7,70.0,Oklahoma,10,55.0,15.0
+2013,Round16,685,Florida Gulf Coast,15,78.0,Georgetown,2,68.0,10.0
+2013,Round16,686,Indiana,1,83.0,James Madison,16,62.0,21.0
+2013,Round32,687,Temple,9,76.0,North Carolina St.,8,72.0,4.0
+2013,Round32,688,California,12,64.0,UNLV,5,61.0,3.0
+2013,E8,689,Syracuse,4,81.0,Montana,13,34.0,47.0
+2013,Round32,690,Butler,6,68.0,Bucknell,11,56.0,12.0
+2013,Round8,691,Marquette,3,59.0,Davidson,14,58.0,1.0
+2013,Round32,692,Illinois,7,57.0,Colorado,10,49.0,8.0
+2013,Round16,693,Miami FL,2,78.0,Pacific,15,49.0,29.0
+2013,R64,694,Louisville,1,82.0,Colorado St.,8,56.0,26.0
+2013,Round16,695,Oregon,12,74.0,Saint Louis,4,57.0,17.0
+2013,Round16,696,Michigan St.,3,70.0,Memphis,6,48.0,22.0
+2013,Round8,697,Duke,2,66.0,Creighton,7,50.0,16.0
+2013,E8,698,Wichita St.,9,76.0,Gonzaga,1,70.0,6.0
+2013,Round16,699,La Salle,13,76.0,Mississippi,12,74.0,2.0
+2013,Round16,700,Arizona,6,74.0,Harvard,14,51.0,23.0
+2013,Round8,701,Ohio St.,2,78.0,Iowa St.,10,75.0,3.0
+2013,Round16,702,Kansas,1,70.0,North Carolina,8,58.0,12.0
+2013,R32,703,Michigan,4,78.0,VCU,5,53.0,25.0
+2013,Round8,704,Florida,3,78.0,Minnesota,11,64.0,14.0
+2013,Round16,705,Florida Gulf Coast,15,81.0,San Diego St.,7,71.0,10.0
+2013,Round16,706,Indiana,1,58.0,Temple,9,52.0,6.0
+2013,E8,707,Syracuse,4,66.0,California,12,60.0,6.0
+2013,Round8,708,Marquette,3,74.0,Butler,6,72.0,2.0
+2013,Round16,709,Miami FL,2,63.0,Illinois,7,59.0,4.0
+2013,R64,710,Louisville,1,77.0,Oregon,12,69.0,8.0
+2013,Round8,711,Duke,2,71.0,Michigan St.,3,61.0,10.0
+2013,E8,712,Wichita St.,9,72.0,La Salle,13,58.0,14.0
+2013,Round8,713,Ohio St.,2,73.0,Arizona,6,70.0,3.0
+2013,R32,714,Michigan,4,87.0,Kansas,1,85.0,2.0
+2013,Round8,715,Florida,3,62.0,Florida Gulf Coast,15,50.0,12.0
+2013,E8,716,Syracuse,4,61.0,Indiana,1,50.0,11.0
+2013,Round8,717,Marquette,3,71.0,Miami FL,2,61.0,10.0
+2013,R64,718,Louisville,1,85.0,Duke,2,63.0,22.0
+2013,E8,719,Wichita St.,9,70.0,Ohio St.,2,66.0,4.0
+2013,R32,720,Michigan,4,79.0,Florida,3,59.0,20.0
+2013,E8,721,Syracuse,4,55.0,Marquette,3,39.0,16.0
+2013,R64,722,Louisville,1,72.0,Wichita St.,9,68.0,4.0
+2013,R32,723,Michigan,4,61.0,Syracuse,4,56.0,5.0
+2013,R64,724,Louisville,1,82.0,Michigan,4,76.0,6.0
+2014,E8,599,Florida,1,67.0,Albany,16,55.0,12.0
+2014,Round32,600,Pittsburgh,9,77.0,Colorado,8,48.0,29.0
+2014,Round32,601,Stephen F. Austin,12,77.0,VCU,5,75.0,2.0
+2014,Round16,602,UCLA,4,76.0,Tulsa,13,59.0,17.0
+2014,Round8,603,Dayton,11,60.0,Ohio St.,6,59.0,1.0
+2014,Round32,604,Syracuse,3,77.0,Western Michigan,14,53.0,24.0
+2014,Round16,605,Stanford,10,58.0,New Mexico,7,53.0,5.0
+2014,Round32,606,Kansas,2,80.0,Eastern Kentucky,15,69.0,11.0
+2014,Round16,607,Virginia,1,70.0,Coastal Carolina,16,59.0,11.0
+2014,Round32,608,Memphis,8,71.0,George Washington,9,66.0,5.0
+2014,Round32,609,Harvard,12,61.0,Cincinnati,5,57.0,4.0
+2014,Round8,610,Michigan St.,4,93.0,Delaware,13,78.0,15.0
+2014,Round32,611,North Carolina,6,79.0,Providence,11,77.0,2.0
+2014,Round16,612,Iowa St.,3,93.0,North Carolina Central,14,75.0,18.0
+2014,R64,613,Connecticut,7,89.0,Saint Joseph's,10,81.0,8.0
+2014,Round32,614,Villanova,2,73.0,Milwaukee,15,53.0,20.0
+2014,Round8,615,Arizona,1,68.0,Weber St.,16,59.0,9.0
+2014,Round32,616,Gonzaga,8,85.0,Oklahoma St.,9,77.0,8.0
+2014,Round32,617,North Dakota St.,12,80.0,Oklahoma,5,75.0,5.0
+2014,Round16,618,San Diego St.,4,73.0,New Mexico St.,13,69.0,4.0
+2014,Round16,619,Baylor,6,74.0,Nebraska,11,60.0,14.0
+2014,Round32,620,Creighton,3,76.0,Louisiana Lafayette,14,66.0,10.0
+2014,Round32,621,Oregon,7,87.0,BYU,10,68.0,19.0
+2014,E8,622,Wisconsin,2,75.0,American,15,35.0,40.0
+2014,Round32,623,Wichita St.,1,64.0,Cal Poly,16,37.0,27.0
+2014,R32,624,Kentucky,8,56.0,Kansas St.,9,49.0,7.0
+2014,Round32,625,Saint Louis,5,83.0,North Carolina St.,12,80.0,3.0
+2014,Round16,626,Louisville,4,71.0,Manhattan,13,64.0,7.0
+2014,Round16,627,Tennessee,11,86.0,Massachusetts,6,67.0,19.0
+2014,Round32,628,Mercer,14,78.0,Duke,3,71.0,7.0
+2014,Round32,629,Texas,7,87.0,Arizona St.,10,85.0,2.0
+2014,Round8,630,Michigan,2,57.0,Wofford,15,40.0,17.0
+2014,E8,631,Florida,1,61.0,Pittsburgh,9,45.0,16.0
+2014,Round16,632,UCLA,4,77.0,Stephen F. Austin,12,60.0,17.0
+2014,Round8,633,Dayton,11,55.0,Syracuse,3,53.0,2.0
+2014,Round16,634,Stanford,10,60.0,Kansas,2,57.0,3.0
+2014,Round16,635,Virginia,1,78.0,Memphis,8,60.0,18.0
+2014,Round8,636,Michigan St.,4,80.0,Harvard,12,73.0,7.0
+2014,Round16,637,Iowa St.,3,85.0,North Carolina,6,83.0,2.0
+2014,R64,638,Connecticut,7,77.0,Villanova,2,65.0,12.0
+2014,Round8,639,Arizona,1,84.0,Gonzaga,8,61.0,23.0
+2014,Round16,640,San Diego St.,4,63.0,North Dakota St.,12,44.0,19.0
+2014,Round16,641,Baylor,6,85.0,Creighton,3,55.0,30.0
+2014,E8,642,Wisconsin,2,85.0,Oregon,7,77.0,8.0
+2014,R32,643,Kentucky,8,78.0,Wichita St.,1,76.0,2.0
+2014,Round16,644,Louisville,4,66.0,Saint Louis,5,51.0,15.0
+2014,Round16,645,Tennessee,11,83.0,Mercer,14,63.0,20.0
+2014,Round8,646,Michigan,2,79.0,Texas,7,65.0,14.0
+2014,E8,647,Florida,1,79.0,UCLA,4,68.0,11.0
+2014,Round8,648,Dayton,11,82.0,Stanford,10,72.0,10.0
+2014,Round8,649,Michigan St.,4,61.0,Virginia,1,59.0,2.0
+2014,R64,650,Connecticut,7,81.0,Iowa St.,3,76.0,5.0
+2014,Round8,651,Arizona,1,70.0,San Diego St.,4,64.0,6.0
+2014,E8,652,Wisconsin,2,69.0,Baylor,6,52.0,17.0
+2014,R32,653,Kentucky,8,74.0,Louisville,4,69.0,5.0
+2014,Round8,654,Michigan,2,73.0,Tennessee,11,71.0,2.0
+2014,E8,655,Florida,1,62.0,Dayton,11,52.0,10.0
+2014,R64,656,Connecticut,7,60.0,Michigan St.,4,54.0,6.0
+2014,E8,657,Wisconsin,2,64.0,Arizona,1,63.0,1.0
+2014,R32,658,Kentucky,8,75.0,Michigan,2,72.0,3.0
+2014,R64,659,Connecticut,7,63.0,Florida,1,53.0,10.0
+2014,R32,660,Kentucky,8,74.0,Wisconsin,2,73.0,1.0
+2014,R64,661,Connecticut,7,60.0,Kentucky,8,54.0,6.0
+2015,E8,536,Kentucky,1,79.0,Hampton,16,56.0,23.0
+2015,Round32,537,Cincinnati,8,66.0,Purdue,9,65.0,1.0
+2015,Round16,538,West Virginia,5,68.0,Buffalo,12,62.0,6.0
+2015,Round32,539,Maryland,4,65.0,Valparaiso,13,62.0,3.0
+2015,Round32,540,Butler,6,56.0,Texas,11,48.0,8.0
+2015,Round8,541,Notre Dame,3,69.0,Northeastern,14,65.0,4.0
+2015,Round16,542,Wichita St.,7,81.0,Indiana,10,76.0,5.0
+2015,Round32,543,Kansas,2,75.0,New Mexico St.,15,56.0,19.0
+2015,R32,544,Wisconsin,1,86.0,Coastal Carolina,16,72.0,14.0
+2015,Round32,545,Oregon,8,79.0,Oklahoma St.,9,73.0,6.0
+2015,Round32,546,Arkansas,5,56.0,Wofford,12,53.0,3.0
+2015,Round16,547,North Carolina,4,67.0,Harvard,13,65.0,2.0
+2015,Round16,548,Xavier,6,76.0,Mississippi,11,57.0,19.0
+2015,Round32,549,Georgia St.,14,57.0,Baylor,3,56.0,1.0
+2015,Round32,550,Ohio St.,10,75.0,VCU,7,72.0,3.0
+2015,Round8,551,Arizona,2,93.0,Texas Southern,15,72.0,21.0
+2015,Round32,552,Villanova,1,93.0,Lafayette,16,52.0,41.0
+2015,Round16,553,North Carolina St.,8,66.0,LSU,9,65.0,1.0
+2015,Round32,554,Northern Iowa,5,71.0,Wyoming,12,54.0,17.0
+2015,Round8,555,Louisville,4,57.0,UC Irvine,13,55.0,2.0
+2015,Round32,556,Dayton,11,66.0,Providence,6,53.0,13.0
+2015,Round16,557,Oklahoma,3,69.0,Albany,14,60.0,9.0
+2015,E8,558,Michigan St.,7,70.0,Georgia,10,63.0,7.0
+2015,Round32,559,Virginia,2,79.0,Belmont,15,67.0,12.0
+2015,R64,560,Duke,1,85.0,Robert Morris,16,56.0,29.0
+2015,Round32,561,San Diego St.,8,76.0,St. John's,9,64.0,12.0
+2015,Round16,562,Utah,5,57.0,Stephen F. Austin,12,50.0,7.0
+2015,Round32,563,Georgetown,4,84.0,Eastern Washington,13,74.0,10.0
+2015,Round16,564,UCLA,11,60.0,SMU,6,59.0,1.0
+2015,Round32,565,UAB,14,60.0,Iowa St.,3,59.0,1.0
+2015,Round32,566,Iowa,7,83.0,Davidson,10,52.0,31.0
+2015,Round8,567,Gonzaga,2,86.0,North Dakota St.,15,76.0,10.0
+2015,E8,568,Kentucky,1,64.0,Cincinnati,8,51.0,13.0
+2015,Round16,569,West Virginia,5,69.0,Maryland,4,59.0,10.0
+2015,Round8,570,Notre Dame,3,67.0,Butler,6,64.0,3.0
+2015,Round16,571,Wichita St.,7,78.0,Kansas,2,65.0,13.0
+2015,R32,572,Wisconsin,1,72.0,Oregon,8,65.0,7.0
+2015,Round16,573,North Carolina,4,87.0,Arkansas,5,78.0,9.0
+2015,Round16,574,Xavier,6,75.0,Georgia St.,14,67.0,8.0
+2015,Round8,575,Arizona,2,73.0,Ohio St.,10,58.0,15.0
+2015,Round16,576,North Carolina St.,8,71.0,Villanova,1,68.0,3.0
+2015,Round8,577,Louisville,4,66.0,Northern Iowa,5,53.0,13.0
+2015,Round16,578,Oklahoma,3,72.0,Dayton,11,66.0,6.0
+2015,E8,579,Michigan St.,7,60.0,Virginia,2,54.0,6.0
+2015,R64,580,Duke,1,68.0,San Diego St.,8,49.0,19.0
+2015,Round16,581,Utah,5,75.0,Georgetown,4,64.0,11.0
+2015,Round16,582,UCLA,11,92.0,UAB,14,75.0,17.0
+2015,Round8,583,Gonzaga,2,87.0,Iowa,7,68.0,19.0
+2015,E8,584,Kentucky,1,78.0,West Virginia,5,39.0,39.0
+2015,Round8,585,Notre Dame,3,81.0,Wichita St.,7,70.0,11.0
+2015,R32,586,Wisconsin,1,79.0,North Carolina,4,72.0,7.0
+2015,Round8,587,Arizona,2,68.0,Xavier,6,60.0,8.0
+2015,Round8,588,Louisville,4,75.0,North Carolina St.,8,65.0,10.0
+2015,E8,589,Michigan St.,7,62.0,Oklahoma,3,58.0,4.0
+2015,R64,590,Duke,1,63.0,Utah,5,57.0,6.0
+2015,Round8,591,Gonzaga,2,74.0,UCLA,11,62.0,12.0
+2015,E8,592,Kentucky,1,68.0,Notre Dame,3,66.0,2.0
+2015,R32,593,Wisconsin,1,85.0,Arizona,2,78.0,7.0
+2015,E8,594,Michigan St.,7,76.0,Louisville,4,70.0,6.0
+2015,R64,595,Duke,1,66.0,Gonzaga,2,52.0,14.0
+2015,R32,596,Wisconsin,1,71.0,Kentucky,1,64.0,7.0
+2015,R64,597,Duke,1,81.0,Michigan St.,7,61.0,20.0
+2015,R64,598,Duke,1,68.0,Wisconsin,1,63.0,5.0
+2016,Round8,473,Kansas,1,105.0,Austin Peay,16,79.0,26.0
+2016,Round32,474,Connecticut,9,74.0,Colorado,8,67.0,7.0
+2016,Round16,475,Maryland,5,79.0,South Dakota St.,12,74.0,5.0
+2016,Round32,476,Hawaii,13,77.0,California,4,66.0,11.0
+2016,Round32,477,Wichita St.,11,65.0,Arizona,6,55.0,10.0
+2016,Round16,478,Miami FL,3,79.0,Buffalo,14,72.0,7.0
+2016,Round32,479,Iowa,7,72.0,Temple,10,70.0,2.0
+2016,R64,480,Villanova,2,86.0,UNC Asheville,15,56.0,30.0
+2016,Round8,481,Oregon,1,91.0,Holy Cross,16,52.0,39.0
+2016,Round32,482,Saint Joseph's,8,78.0,Cincinnati,9,76.0,2.0
+2016,Round32,483,Yale,12,79.0,Baylor,5,75.0,4.0
+2016,Round16,484,Duke,4,93.0,UNC Wilmington,13,85.0,8.0
+2016,Round32,485,Northern Iowa,11,75.0,Texas,6,72.0,3.0
+2016,Round16,486,Texas A&M,3,92.0,Green Bay,14,65.0,27.0
+2016,Round32,487,VCU,10,75.0,Oregon St.,7,67.0,8.0
+2016,E8,488,Oklahoma,2,82.0,Cal St. Bakersfield,15,68.0,14.0
+2016,R32,489,North Carolina,1,83.0,Florida Gulf Coast,16,67.0,16.0
+2016,Round32,490,Providence,9,70.0,Southern California,8,69.0,1.0
+2016,Round16,491,Indiana,5,99.0,Chattanooga,12,74.0,25.0
+2016,Round32,492,Kentucky,4,85.0,Stony Brook,13,57.0,28.0
+2016,Round8,493,Notre Dame,6,70.0,Michigan,11,63.0,7.0
+2016,Round32,494,Stephen F. Austin,14,70.0,West Virginia,3,56.0,14.0
+2016,Round16,495,Wisconsin,7,47.0,Pittsburgh,10,43.0,4.0
+2016,Round32,496,Xavier,2,71.0,Weber St.,15,53.0,18.0
+2016,Round8,497,Virginia,1,81.0,Hampton,16,45.0,36.0
+2016,Round32,498,Butler,9,71.0,Texas Tech,8,61.0,10.0
+2016,Round32,499,Little Rock,12,85.0,Purdue,5,83.0,2.0
+2016,Round16,500,Iowa St.,4,94.0,Iona,13,81.0,13.0
+2016,Round16,501,Gonzaga,11,68.0,Seton Hall,6,52.0,16.0
+2016,Round32,502,Utah,3,80.0,Fresno St.,14,69.0,11.0
+2016,E8,503,Syracuse,10,70.0,Dayton,7,51.0,19.0
+2016,Round32,504,Middle Tennessee,15,90.0,Michigan St.,2,81.0,9.0
+2016,Round8,505,Kansas,1,73.0,Connecticut,9,61.0,12.0
+2016,Round16,506,Maryland,5,73.0,Hawaii,13,60.0,13.0
+2016,Round16,507,Miami FL,3,65.0,Wichita St.,11,57.0,8.0
+2016,R64,508,Villanova,2,87.0,Iowa,7,68.0,19.0
+2016,Round8,509,Oregon,1,69.0,Saint Joseph's,8,64.0,5.0
+2016,Round16,510,Duke,4,71.0,Yale,12,64.0,7.0
+2016,Round16,511,Texas A&M,3,92.0,Northern Iowa,11,88.0,4.0
+2016,E8,512,Oklahoma,2,85.0,VCU,10,81.0,4.0
+2016,R32,513,North Carolina,1,85.0,Providence,9,66.0,19.0
+2016,Round16,514,Indiana,5,73.0,Kentucky,4,67.0,6.0
+2016,Round8,515,Notre Dame,6,76.0,Stephen F. Austin,14,75.0,1.0
+2016,Round16,516,Wisconsin,7,66.0,Xavier,2,63.0,3.0
+2016,Round8,517,Virginia,1,77.0,Butler,9,69.0,8.0
+2016,Round16,518,Iowa St.,4,78.0,Little Rock,12,61.0,17.0
+2016,Round16,519,Gonzaga,11,82.0,Utah,3,59.0,23.0
+2016,E8,520,Syracuse,10,75.0,Middle Tennessee,15,50.0,25.0
+2016,Round8,521,Kansas,1,79.0,Maryland,5,63.0,16.0
+2016,R64,522,Villanova,2,92.0,Miami FL,3,69.0,23.0
+2016,Round8,523,Oregon,1,82.0,Duke,4,68.0,14.0
+2016,E8,524,Oklahoma,2,77.0,Texas A&M,3,63.0,14.0
+2016,R32,525,North Carolina,1,101.0,Indiana,5,86.0,15.0
+2016,Round8,526,Notre Dame,6,61.0,Wisconsin,7,56.0,5.0
+2016,Round8,527,Virginia,1,84.0,Iowa St.,4,71.0,13.0
+2016,E8,528,Syracuse,10,63.0,Gonzaga,11,60.0,3.0
+2016,R64,529,Villanova,2,64.0,Kansas,1,59.0,5.0
+2016,E8,530,Oklahoma,2,80.0,Oregon,1,68.0,12.0
+2016,R32,531,North Carolina,1,88.0,Notre Dame,6,74.0,14.0
+2016,E8,532,Syracuse,10,68.0,Virginia,1,62.0,6.0
+2016,R64,533,Villanova,2,95.0,Oklahoma,2,51.0,44.0
+2016,R32,534,North Carolina,1,83.0,Syracuse,10,66.0,17.0
+2016,R64,535,Villanova,2,77.0,North Carolina,1,74.0,3.0
+2017,Round32,410,Villanova,1,76.0,Mount St. Mary's,16,56.0,20.0
+2017,Round16,411,Wisconsin,8,84.0,Virginia Tech,9,74.0,10.0
+2017,Round32,412,Virginia,5,76.0,UNC Wilmington,12,71.0,5.0
+2017,Round8,413,Florida,4,80.0,East Tennessee St.,13,65.0,15.0
+2017,Round32,414,Southern California,11,66.0,SMU,6,65.0,1.0
+2017,Round16,415,Baylor,3,91.0,New Mexico St.,14,73.0,18.0
+2017,E8,416,South Carolina,7,93.0,Marquette,10,73.0,20.0
+2017,Round32,417,Duke,2,87.0,Troy,15,65.0,22.0
+2017,R32,418,Gonzaga,1,66.0,South Dakota St.,16,46.0,20.0
+2017,Round32,419,Northwestern,8,68.0,Vanderbilt,9,66.0,2.0
+2017,Round32,420,Notre Dame,5,60.0,Princeton,12,58.0,2.0
+2017,Round16,421,West Virginia,4,86.0,Bucknell,13,80.0,6.0
+2017,Round8,422,Xavier,11,76.0,Maryland,6,65.0,11.0
+2017,Round32,423,Florida St.,3,86.0,Florida Gulf Coast,14,80.0,6.0
+2017,Round32,424,Saint Mary's,7,85.0,VCU,10,77.0,8.0
+2017,Round16,425,Arizona,2,100.0,North Dakota,15,82.0,18.0
+2017,Round8,426,Kansas,1,100.0,UC Davis,16,62.0,38.0
+2017,Round32,427,Michigan St.,9,78.0,Miami FL,8,58.0,20.0
+2017,Round32,428,Iowa St.,5,84.0,Nevada,12,73.0,11.0
+2017,Round16,429,Purdue,4,80.0,Vermont,13,70.0,10.0
+2017,Round32,430,Rhode Island,11,84.0,Creighton,6,72.0,12.0
+2017,E8,431,Oregon,3,93.0,Iona,14,77.0,16.0
+2017,Round16,432,Michigan,7,92.0,Oklahoma St.,10,91.0,1.0
+2017,Round32,433,Louisville,2,78.0,Jacksonville St.,15,63.0,15.0
+2017,R64,434,North Carolina,1,103.0,Texas Southern,16,64.0,39.0
+2017,Round32,435,Arkansas,8,77.0,Seton Hall,9,71.0,6.0
+2017,Round32,436,Middle Tennessee,12,81.0,Minnesota,5,72.0,9.0
+2017,Round16,437,Butler,4,76.0,Winthrop,13,64.0,12.0
+2017,Round32,438,Cincinnati,6,75.0,Kansas St.,11,61.0,14.0
+2017,Round16,439,UCLA,3,97.0,Kent St.,14,80.0,17.0
+2017,Round32,440,Wichita St.,10,64.0,Dayton,7,58.0,6.0
+2017,Round8,441,Kentucky,2,79.0,Northern Kentucky,15,70.0,9.0
+2017,Round16,442,Wisconsin,8,65.0,Villanova,1,62.0,3.0
+2017,Round8,443,Florida,4,65.0,Virginia,5,39.0,26.0
+2017,Round16,444,Baylor,3,82.0,Southern California,11,78.0,4.0
+2017,E8,445,South Carolina,7,88.0,Duke,2,81.0,7.0
+2017,R32,446,Gonzaga,1,79.0,Northwestern,8,73.0,6.0
+2017,Round16,447,West Virginia,4,83.0,Notre Dame,5,71.0,12.0
+2017,Round8,448,Xavier,11,91.0,Florida St.,3,66.0,25.0
+2017,Round16,449,Arizona,2,69.0,Saint Mary's,7,60.0,9.0
+2017,Round8,450,Kansas,1,90.0,Michigan St.,9,70.0,20.0
+2017,Round16,451,Purdue,4,80.0,Iowa St.,5,76.0,4.0
+2017,E8,452,Oregon,3,75.0,Rhode Island,11,72.0,3.0
+2017,Round16,453,Michigan,7,73.0,Louisville,2,69.0,4.0
+2017,R64,454,North Carolina,1,72.0,Arkansas,8,65.0,7.0
+2017,Round16,455,Butler,4,74.0,Middle Tennessee,12,65.0,9.0
+2017,Round16,456,UCLA,3,79.0,Cincinnati,6,67.0,12.0
+2017,Round8,457,Kentucky,2,65.0,Wichita St.,10,62.0,3.0
+2017,Round8,458,Florida,4,84.0,Wisconsin,8,83.0,1.0
+2017,E8,459,South Carolina,7,70.0,Baylor,3,50.0,20.0
+2017,R32,460,Gonzaga,1,61.0,West Virginia,4,58.0,3.0
+2017,Round8,461,Xavier,11,73.0,Arizona,2,71.0,2.0
+2017,Round8,462,Kansas,1,98.0,Purdue,4,66.0,32.0
+2017,E8,463,Oregon,3,69.0,Michigan,7,68.0,1.0
+2017,R64,464,North Carolina,1,92.0,Butler,4,80.0,12.0
+2017,Round8,465,Kentucky,2,86.0,UCLA,3,75.0,11.0
+2017,E8,466,South Carolina,7,77.0,Florida,4,70.0,7.0
+2017,R32,467,Gonzaga,1,83.0,Xavier,11,59.0,24.0
+2017,E8,468,Oregon,3,74.0,Kansas,1,60.0,14.0
+2017,R64,469,North Carolina,1,75.0,Kentucky,2,73.0,2.0
+2017,R32,470,Gonzaga,1,77.0,South Carolina,7,73.0,4.0
+2017,R64,471,North Carolina,1,77.0,Oregon,3,76.0,1.0
+2017,R64,472,North Carolina,1,71.0,Gonzaga,1,65.0,6.0
+2018,Round32,347,UMBC,16,74.0,Virginia,1,54.0,20.0
+2018,Round8,348,Kansas St.,9,69.0,Creighton,8,59.0,10.0
+2018,Round16,349,Kentucky,5,78.0,Davidson,12,73.0,5.0
+2018,Round32,350,Buffalo,13,89.0,Arizona,4,68.0,21.0
+2018,E8,351,Loyola Chicago,11,64.0,Miami FL,6,62.0,2.0
+2018,Round32,352,Tennessee,3,73.0,Wright St.,14,47.0,26.0
+2018,Round16,353,Nevada,7,87.0,Texas,10,83.0,4.0
+2018,Round32,354,Cincinnati,2,68.0,Georgia St.,15,53.0,15.0
+2018,Round32,355,Xavier,1,102.0,Texas Southern,16,83.0,19.0
+2018,Round8,356,Florida St.,9,67.0,Missouri,8,54.0,13.0
+2018,Round32,357,Ohio St.,5,81.0,South Dakota St.,12,73.0,8.0
+2018,Round16,358,Gonzaga,4,68.0,UNC Greensboro,13,64.0,4.0
+2018,Round32,359,Houston,6,67.0,San Diego St.,11,65.0,2.0
+2018,R32,360,Michigan,3,61.0,Montana,14,47.0,14.0
+2018,Round16,361,Texas A&M,7,73.0,Providence,10,69.0,4.0
+2018,Round32,362,North Carolina,2,84.0,Lipscomb,15,66.0,18.0
+2018,R64,363,Villanova,1,87.0,Radford,16,61.0,26.0
+2018,Round32,364,Alabama,9,86.0,Virginia Tech,8,83.0,3.0
+2018,Round16,365,West Virginia,5,85.0,Murray St.,12,68.0,17.0
+2018,Round32,366,Marshall,13,81.0,Wichita St.,4,75.0,6.0
+2018,Round32,367,Florida,6,77.0,St. Bonaventure,11,62.0,15.0
+2018,Round8,368,Texas Tech,3,70.0,Stephen F. Austin,14,60.0,10.0
+2018,Round32,369,Butler,10,79.0,Arkansas,7,62.0,17.0
+2018,Round16,370,Purdue,2,74.0,Cal St. Fullerton,15,48.0,26.0
+2018,E8,371,Kansas,1,76.0,Penn,16,60.0,16.0
+2018,Round32,372,Seton Hall,8,94.0,North Carolina St.,9,83.0,11.0
+2018,Round16,373,Clemson,5,79.0,New Mexico St.,12,68.0,11.0
+2018,Round32,374,Auburn,4,62.0,College of Charleston,13,58.0,4.0
+2018,Round16,375,Syracuse,11,57.0,TCU,6,52.0,5.0
+2018,Round32,376,Michigan St.,3,82.0,Bucknell,14,78.0,4.0
+2018,Round32,377,Rhode Island,7,83.0,Oklahoma,10,78.0,5.0
+2018,Round8,378,Duke,2,89.0,Iona,15,67.0,22.0
+2018,Round8,379,Kansas St.,9,50.0,UMBC,16,43.0,7.0
+2018,Round16,380,Kentucky,5,95.0,Buffalo,13,75.0,20.0
+2018,E8,381,Loyola Chicago,11,63.0,Tennessee,3,62.0,1.0
+2018,Round16,382,Nevada,7,75.0,Cincinnati,2,73.0,2.0
+2018,Round8,383,Florida St.,9,75.0,Xavier,1,70.0,5.0
+2018,Round16,384,Gonzaga,4,90.0,Ohio St.,5,84.0,6.0
+2018,R32,385,Michigan,3,64.0,Houston,6,63.0,1.0
+2018,Round16,386,Texas A&M,7,86.0,North Carolina,2,65.0,21.0
+2018,R64,387,Villanova,1,81.0,Alabama,9,58.0,23.0
+2018,Round16,388,West Virginia,5,94.0,Marshall,13,71.0,23.0
+2018,Round8,389,Texas Tech,3,69.0,Florida,6,66.0,3.0
+2018,Round16,390,Purdue,2,76.0,Butler,10,73.0,3.0
+2018,E8,391,Kansas,1,83.0,Seton Hall,8,79.0,4.0
+2018,Round16,392,Clemson,5,84.0,Auburn,4,53.0,31.0
+2018,Round16,393,Syracuse,11,55.0,Michigan St.,3,53.0,2.0
+2018,Round8,394,Duke,2,87.0,Rhode Island,7,62.0,25.0
+2018,Round8,395,Kansas St.,9,61.0,Kentucky,5,58.0,3.0
+2018,E8,396,Loyola Chicago,11,69.0,Nevada,7,68.0,1.0
+2018,Round8,397,Florida St.,9,75.0,Gonzaga,4,60.0,15.0
+2018,R32,398,Michigan,3,99.0,Texas A&M,7,72.0,27.0
+2018,R64,399,Villanova,1,90.0,West Virginia,5,78.0,12.0
+2018,Round8,400,Texas Tech,3,78.0,Purdue,2,65.0,13.0
+2018,E8,401,Kansas,1,80.0,Clemson,5,76.0,4.0
+2018,Round8,402,Duke,2,69.0,Syracuse,11,65.0,4.0
+2018,E8,403,Loyola Chicago,11,78.0,Kansas St.,9,62.0,16.0
+2018,R32,404,Michigan,3,58.0,Florida St.,9,54.0,4.0
+2018,R64,405,Villanova,1,71.0,Texas Tech,3,59.0,12.0
+2018,E8,406,Kansas,1,85.0,Duke,2,81.0,4.0
+2018,R32,407,Michigan,3,69.0,Loyola Chicago,11,57.0,12.0
+2018,R64,408,Villanova,1,95.0,Kansas,1,79.0,16.0
+2018,R64,409,Villanova,1,79.0,Michigan,3,62.0,17.0
+2019,Round8,284,Duke,1,85.0,North Dakota St.,16,62.0,23.0
+2019,Round32,285,Central Florida,9,73.0,VCU,8,58.0,15.0
+2019,Round32,286,Liberty,12,80.0,Mississippi St.,5,76.0,4.0
+2019,Round16,287,Virginia Tech,4,66.0,Saint Louis,13,52.0,14.0
+2019,Round32,288,Maryland,6,79.0,Belmont,11,77.0,2.0
+2019,Round16,289,LSU,3,79.0,Yale,14,74.0,5.0
+2019,Round32,290,Minnesota,10,86.0,Louisville,7,76.0,10.0
+2019,E8,291,Michigan St.,2,76.0,Bradley,15,65.0,11.0
+2019,Round8,292,Gonzaga,1,87.0,Fairleigh Dickinson,16,49.0,38.0
+2019,Round32,293,Baylor,9,78.0,Syracuse,8,69.0,9.0
+2019,Round32,294,Murray St.,12,83.0,Marquette,5,64.0,19.0
+2019,Round16,295,Florida St.,4,76.0,Vermont,13,69.0,7.0
+2019,Round32,296,Buffalo,6,91.0,Arizona St.,11,74.0,17.0
+2019,R32,297,Texas Tech,3,72.0,Northern Kentucky,14,57.0,15.0
+2019,Round32,298,Florida,10,70.0,Nevada,7,61.0,9.0
+2019,Round16,299,Michigan,2,74.0,Montana,15,55.0,19.0
+2019,R64,300,Virginia,1,71.0,Gardner Webb,16,56.0,15.0
+2019,Round32,301,Oklahoma,9,95.0,Mississippi,8,72.0,23.0
+2019,Round16,302,Oregon,12,72.0,Wisconsin,5,54.0,18.0
+2019,Round32,303,UC Irvine,13,70.0,Kansas St.,4,64.0,6.0
+2019,Round32,304,Villanova,6,61.0,Saint Mary's,11,57.0,4.0
+2019,Round8,305,Purdue,3,61.0,Old Dominion,14,48.0,13.0
+2019,Round32,306,Iowa,10,79.0,Cincinnati,7,72.0,7.0
+2019,Round16,307,Tennessee,2,77.0,Colgate,15,70.0,7.0
+2019,Round16,308,North Carolina,1,88.0,Iona,16,73.0,15.0
+2019,Round32,309,Washington,9,78.0,Utah St.,8,61.0,17.0
+2019,E8,310,Auburn,5,78.0,New Mexico St.,12,77.0,1.0
+2019,Round32,311,Kansas,4,87.0,Northeastern,13,52.0,35.0
+2019,Round32,312,Ohio St.,11,62.0,Iowa St.,6,59.0,3.0
+2019,Round16,313,Houston,3,84.0,Georgia St.,14,55.0,29.0
+2019,Round32,314,Wofford,7,84.0,Seton Hall,10,68.0,16.0
+2019,Round8,315,Kentucky,2,79.0,Abilene Christian,15,44.0,35.0
+2019,Round8,316,Duke,1,77.0,Central Florida,9,76.0,1.0
+2019,Round16,317,Virginia Tech,4,67.0,Liberty,12,58.0,9.0
+2019,Round16,318,LSU,3,69.0,Maryland,6,67.0,2.0
+2019,E8,319,Michigan St.,2,70.0,Minnesota,10,50.0,20.0
+2019,Round8,320,Gonzaga,1,83.0,Baylor,9,71.0,12.0
+2019,Round16,321,Florida St.,4,90.0,Murray St.,12,62.0,28.0
+2019,R32,322,Texas Tech,3,78.0,Buffalo,6,58.0,20.0
+2019,Round16,323,Michigan,2,64.0,Florida,10,49.0,15.0
+2019,R64,324,Virginia,1,63.0,Oklahoma,9,51.0,12.0
+2019,Round16,325,Oregon,12,73.0,UC Irvine,13,54.0,19.0
+2019,Round8,326,Purdue,3,87.0,Villanova,6,61.0,26.0
+2019,Round16,327,Tennessee,2,83.0,Iowa,10,77.0,6.0
+2019,Round16,328,North Carolina,1,81.0,Washington,9,59.0,22.0
+2019,E8,329,Auburn,5,89.0,Kansas,4,75.0,14.0
+2019,Round16,330,Houston,3,74.0,Ohio St.,11,59.0,15.0
+2019,Round8,331,Kentucky,2,62.0,Wofford,7,56.0,6.0
+2019,Round8,332,Duke,1,75.0,Virginia Tech,4,73.0,2.0
+2019,E8,333,Michigan St.,2,80.0,LSU,3,63.0,17.0
+2019,Round8,334,Gonzaga,1,72.0,Florida St.,4,58.0,14.0
+2019,R32,335,Texas Tech,3,63.0,Michigan,2,44.0,19.0
+2019,R64,336,Virginia,1,53.0,Oregon,12,49.0,4.0
+2019,Round8,337,Purdue,3,99.0,Tennessee,2,94.0,5.0
+2019,E8,338,Auburn,5,97.0,North Carolina,1,80.0,17.0
+2019,Round8,339,Kentucky,2,62.0,Houston,3,58.0,4.0
+2019,E8,340,Michigan St.,2,68.0,Duke,1,67.0,1.0
+2019,R32,341,Texas Tech,3,75.0,Gonzaga,1,69.0,6.0
+2019,R64,342,Virginia,1,80.0,Purdue,3,75.0,5.0
+2019,E8,343,Auburn,5,77.0,Kentucky,2,71.0,6.0
+2019,R32,344,Texas Tech,3,61.0,Michigan St.,2,51.0,10.0
+2019,R64,345,Virginia,1,63.0,Auburn,5,62.0,1.0
+2019,R64,346,Virginia,1,85.0,Texas Tech,3,77.0,8.0
+2021,R32,222,Gonzaga,1,98.0,Norfolk St.,16,55.0,43.0
+2021,Round32,223,Oklahoma,8,72.0,Missouri,9,68.0,4.0
+2021,Round16,224,Creighton,5,63.0,UC Santa Barbara,12,62.0,1.0
+2021,Round32,225,Ohio,13,62.0,Virginia,4,58.0,4.0
+2021,Round8,226,Southern California,6,72.0,Drake,11,56.0,16.0
+2021,Round32,227,Kansas,3,93.0,Eastern Washington,14,84.0,9.0
+2021,Round32,228,Iowa,2,86.0,Grand Canyon,15,74.0,12.0
+2021,Round8,229,Michigan,1,82.0,Texas Southern,16,66.0,16.0
+2021,Round32,230,LSU,8,76.0,St. Bonaventure,9,61.0,15.0
+2021,Round32,231,Colorado,5,96.0,Georgetown,12,73.0,23.0
+2021,Round16,232,Florida St.,4,64.0,UNC Greensboro,13,54.0,10.0
+2021,E8,233,UCLA,11,73.0,BYU,6,62.0,11.0
+2021,Round32,234,Abilene Christian,14,53.0,Texas,3,52.0,1.0
+2021,Round32,235,Maryland,10,63.0,Connecticut,7,54.0,9.0
+2021,Round16,236,Alabama,2,68.0,Iona,15,55.0,13.0
+2021,R64,237,Baylor,1,79.0,Hartford,16,55.0,24.0
+2021,Round32,238,Wisconsin,9,85.0,North Carolina,8,62.0,23.0
+2021,Round16,239,Villanova,5,73.0,Winthrop,12,63.0,10.0
+2021,Round32,240,North Texas,13,78.0,Purdue,4,69.0,9.0
+2021,Round32,241,Texas Tech,6,65.0,Utah St.,11,53.0,12.0
+2021,Round8,242,Arkansas,3,85.0,Colgate,14,68.0,17.0
+2021,Round32,243,Florida,7,75.0,Virginia Tech,10,70.0,5.0
+2021,Round16,244,Oral Roberts,15,75.0,Ohio St.,2,72.0,3.0
+2021,Round32,245,Illinois,1,78.0,Drexel,16,49.0,29.0
+2021,Round16,246,Loyola Chicago,8,71.0,Georgia Tech,9,60.0,11.0
+2021,Round8,247,Oregon St.,12,70.0,Tennessee,5,56.0,14.0
+2021,Round32,248,Oklahoma St.,4,69.0,Liberty,13,60.0,9.0
+2021,Round16,249,Syracuse,11,78.0,San Diego St.,6,62.0,16.0
+2021,Round32,250,West Virginia,3,84.0,Morehead St.,14,67.0,17.0
+2021,Round32,251,Rutgers,10,60.0,Clemson,7,56.0,4.0
+2021,E8,252,Houston,2,87.0,Cleveland St.,15,56.0,31.0
+2021,R32,253,Gonzaga,1,87.0,Oklahoma,8,71.0,16.0
+2021,Round16,254,Creighton,5,72.0,Ohio,13,58.0,14.0
+2021,Round8,255,Southern California,6,85.0,Kansas,3,51.0,34.0
+2021,Round16,256,Oregon,7,95.0,Iowa,2,80.0,15.0
+2021,Round8,257,Michigan,1,86.0,LSU,8,78.0,8.0
+2021,Round16,258,Florida St.,4,71.0,Colorado,5,53.0,18.0
+2021,E8,259,UCLA,11,67.0,Abilene Christian,14,47.0,20.0
+2021,Round16,260,Alabama,2,96.0,Maryland,10,77.0,19.0
+2021,R64,261,Baylor,1,76.0,Wisconsin,9,63.0,13.0
+2021,Round16,262,Villanova,5,84.0,North Texas,13,61.0,23.0
+2021,Round8,263,Arkansas,3,68.0,Texas Tech,6,66.0,2.0
+2021,Round16,264,Oral Roberts,15,81.0,Florida,7,78.0,3.0
+2021,Round16,265,Loyola Chicago,8,71.0,Illinois,1,58.0,13.0
+2021,Round8,266,Oregon St.,12,80.0,Oklahoma St.,4,70.0,10.0
+2021,Round16,267,Syracuse,11,75.0,West Virginia,3,72.0,3.0
+2021,E8,268,Houston,2,63.0,Rutgers,10,60.0,3.0
+2021,R32,269,Gonzaga,1,83.0,Creighton,5,65.0,18.0
+2021,Round8,270,Southern California,6,82.0,Oregon,7,68.0,14.0
+2021,Round8,271,Michigan,1,76.0,Florida St.,4,58.0,18.0
+2021,E8,272,UCLA,11,88.0,Alabama,2,78.0,10.0
+2021,R64,273,Baylor,1,62.0,Villanova,5,51.0,11.0
+2021,Round8,274,Arkansas,3,72.0,Oral Roberts,15,70.0,2.0
+2021,Round8,275,Oregon St.,12,65.0,Loyola Chicago,8,58.0,7.0
+2021,E8,276,Houston,2,62.0,Syracuse,11,46.0,16.0
+2021,R32,277,Gonzaga,1,85.0,Southern California,6,66.0,19.0
+2021,E8,278,UCLA,11,51.0,Michigan,1,49.0,2.0
+2021,R64,279,Baylor,1,81.0,Arkansas,3,72.0,9.0
+2021,E8,280,Houston,2,67.0,Oregon St.,12,61.0,6.0
+2021,R32,281,Gonzaga,1,93.0,UCLA,11,90.0,3.0
+2021,R64,282,Baylor,1,78.0,Houston,2,59.0,19.0
+2021,R64,283,Baylor,1,86.0,Gonzaga,1,70.0,16.0
+2022,Round16,159,Gonzaga,1,93.0,Georgia St.,16,72.0,21.0
+2022,Round32,160,Memphis,9,64.0,Boise St.,8,53.0,11.0
+2022,Round32,161,New Mexico St.,12,70.0,Connecticut,5,63.0,7.0
+2022,Round8,162,Arkansas,4,75.0,Vermont,13,71.0,4.0
+2022,Round32,163,Notre Dame,11,78.0,Alabama,6,64.0,14.0
+2022,Round16,164,Texas Tech,3,97.0,Montana St.,14,62.0,35.0
+2022,Round32,165,Michigan St.,7,74.0,Davidson,10,73.0,1.0
+2022,E8,166,Duke,2,78.0,Cal St. Fullerton,15,61.0,17.0
+2022,Round32,167,Baylor,1,85.0,Norfolk St.,16,49.0,36.0
+2022,R32,168,North Carolina,8,95.0,Marquette,9,63.0,32.0
+2022,Round32,169,Saint Mary's,5,82.0,Indiana,12,53.0,29.0
+2022,Round16,170,UCLA,4,57.0,Akron,13,53.0,4.0
+2022,Round32,171,Texas,6,81.0,Virginia Tech,11,73.0,8.0
+2022,Round16,172,Purdue,3,78.0,Yale,14,56.0,22.0
+2022,Round32,173,Murray St.,7,92.0,San Francisco,10,87.0,5.0
+2022,Round8,174,Saint Peter's,15,85.0,Kentucky,2,79.0,6.0
+2022,Round16,175,Arizona,1,87.0,Wright St.,16,70.0,17.0
+2022,Round32,176,TCU,9,69.0,Seton Hall,8,42.0,27.0
+2022,Round8,177,Houston,5,82.0,UAB,12,68.0,14.0
+2022,Round32,178,Illinois,4,54.0,Chattanooga,13,53.0,1.0
+2022,Round16,179,Michigan,11,75.0,Colorado St.,6,63.0,12.0
+2022,Round32,180,Tennessee,3,88.0,Longwood,14,56.0,32.0
+2022,Round32,181,Ohio St.,7,54.0,Loyola Chicago,10,41.0,13.0
+2022,E8,182,Villanova,2,80.0,Delaware,15,60.0,20.0
+2022,R64,183,Kansas,1,83.0,Texas Southern,16,56.0,27.0
+2022,Round32,184,Creighton,9,72.0,San Diego St.,8,69.0,3.0
+2022,Round32,185,Richmond,12,67.0,Iowa,5,63.0,4.0
+2022,Round16,186,Providence,4,66.0,South Dakota St.,13,57.0,9.0
+2022,Round16,187,Iowa St.,11,59.0,LSU,6,54.0,5.0
+2022,Round32,188,Wisconsin,3,67.0,Colgate,14,60.0,7.0
+2022,Round8,189,Miami FL,10,68.0,Southern California,7,66.0,2.0
+2022,Round32,190,Auburn,2,80.0,Jacksonville St.,15,61.0,19.0
+2022,Round16,191,Gonzaga,1,82.0,Memphis,9,78.0,4.0
+2022,Round8,192,Arkansas,4,53.0,New Mexico St.,12,48.0,5.0
+2022,Round16,193,Texas Tech,3,59.0,Notre Dame,11,53.0,6.0
+2022,E8,194,Duke,2,85.0,Michigan St.,7,76.0,9.0
+2022,R32,195,North Carolina,8,93.0,Baylor,1,86.0,7.0
+2022,Round16,196,UCLA,4,72.0,Saint Mary's,5,56.0,16.0
+2022,Round16,197,Purdue,3,81.0,Texas,6,71.0,10.0
+2022,Round8,198,Saint Peter's,15,70.0,Murray St.,7,60.0,10.0
+2022,Round16,199,Arizona,1,85.0,TCU,9,80.0,5.0
+2022,Round8,200,Houston,5,68.0,Illinois,4,53.0,15.0
+2022,Round16,201,Michigan,11,76.0,Tennessee,3,68.0,8.0
+2022,E8,202,Villanova,2,71.0,Ohio St.,7,61.0,10.0
+2022,R64,203,Kansas,1,79.0,Creighton,9,72.0,7.0
+2022,Round16,204,Providence,4,79.0,Richmond,12,51.0,28.0
+2022,Round16,205,Iowa St.,11,54.0,Wisconsin,3,49.0,5.0
+2022,Round8,206,Miami FL,10,79.0,Auburn,2,61.0,18.0
+2022,Round8,207,Arkansas,4,74.0,Gonzaga,1,68.0,6.0
+2022,E8,208,Duke,2,78.0,Texas Tech,3,73.0,5.0
+2022,R32,209,North Carolina,8,73.0,UCLA,4,66.0,7.0
+2022,Round8,210,Saint Peter's,15,67.0,Purdue,3,64.0,3.0
+2022,Round8,211,Houston,5,72.0,Arizona,1,60.0,12.0
+2022,E8,212,Villanova,2,63.0,Michigan,11,55.0,8.0
+2022,R64,213,Kansas,1,66.0,Providence,4,61.0,5.0
+2022,Round8,214,Miami FL,10,70.0,Iowa St.,11,56.0,14.0
+2022,E8,215,Duke,2,78.0,Arkansas,4,69.0,9.0
+2022,R32,216,North Carolina,8,69.0,Saint Peter's,15,49.0,20.0
+2022,E8,217,Villanova,2,50.0,Houston,5,44.0,6.0
+2022,R64,218,Kansas,1,76.0,Miami FL,10,50.0,26.0
+2022,R32,219,North Carolina,8,81.0,Duke,2,77.0,4.0
+2022,R64,220,Kansas,1,81.0,Villanova,2,65.0,16.0
+2022,R64,221,Kansas,1,72.0,North Carolina,8,69.0,3.0
+2023,Round16,96,Alabama,1,96.0,Texas A&M Corpus Chris,16,75.0,21.0
+2023,Round32,97,Maryland,8,67.0,West Virginia,9,65.0,2.0
+2023,R32,98,San Diego St.,5,63.0,College of Charleston,12,57.0,6.0
+2023,Round32,99,Furman,13,68.0,Virginia,4,67.0,1.0
+2023,Round8,100,Creighton,6,72.0,North Carolina St.,11,63.0,9.0
+2023,Round32,101,Baylor,3,74.0,UC Santa Barbara,14,56.0,18.0
+2023,Round32,102,Missouri,7,76.0,Utah St.,10,65.0,11.0
+2023,Round16,103,Princeton,15,59.0,Arizona,2,55.0,4.0
+2023,Round32,104,Fairleigh Dickinson,16,63.0,Purdue,1,58.0,5.0
+2023,E8,105,Florida Atlantic,9,66.0,Memphis,8,65.0,1.0
+2023,Round32,106,Duke,5,74.0,Oral Roberts,12,51.0,23.0
+2023,Round16,107,Tennessee,4,58.0,Louisiana Lafayette,13,55.0,3.0
+2023,Round32,108,Kentucky,6,61.0,Providence,11,53.0,8.0
+2023,Round8,109,Kansas St.,3,77.0,Montana St.,14,65.0,12.0
+2023,Round16,110,Michigan St.,7,72.0,Southern California,10,62.0,10.0
+2023,Round32,111,Marquette,2,78.0,Vermont,15,61.0,17.0
+2023,Round16,112,Houston,1,63.0,Northern Kentucky,16,52.0,11.0
+2023,Round32,113,Auburn,9,83.0,Iowa,8,75.0,8.0
+2023,E8,114,Miami FL,5,63.0,Drake,12,56.0,7.0
+2023,Round32,115,Indiana,4,71.0,Kent St.,13,60.0,11.0
+2023,Round32,116,Pittsburgh,11,59.0,Iowa St.,6,41.0,18.0
+2023,Round16,117,Xavier,3,72.0,Kennesaw St.,14,67.0,5.0
+2023,Round32,118,Penn St.,10,76.0,Texas A&M,7,59.0,17.0
+2023,Round8,119,Texas,2,81.0,Colgate,15,61.0,20.0
+2023,Round32,120,Kansas,1,96.0,Howard,16,68.0,28.0
+2023,Round16,121,Arkansas,8,73.0,Illinois,9,63.0,10.0
+2023,Round32,122,Saint Mary's,5,63.0,VCU,12,51.0,12.0
+2023,R64,123,Connecticut,4,87.0,Iona,13,63.0,24.0
+2023,Round32,124,TCU,6,72.0,Arizona St.,11,70.0,2.0
+2023,Round8,125,Gonzaga,3,82.0,Grand Canyon,14,70.0,12.0
+2023,Round32,126,Northwestern,7,75.0,Boise St.,10,67.0,8.0
+2023,Round16,127,UCLA,2,86.0,UNC Asheville,15,53.0,33.0
+2023,Round16,128,Alabama,1,73.0,Maryland,8,51.0,22.0
+2023,R32,129,San Diego St.,5,75.0,Furman,13,52.0,23.0
+2023,Round8,130,Creighton,6,85.0,Baylor,3,76.0,9.0
+2023,Round16,131,Princeton,15,78.0,Missouri,7,63.0,15.0
+2023,E8,132,Florida Atlantic,9,78.0,Fairleigh Dickinson,16,70.0,8.0
+2023,Round16,133,Tennessee,4,65.0,Duke,5,52.0,13.0
+2023,Round8,134,Kansas St.,3,75.0,Kentucky,6,69.0,6.0
+2023,Round16,135,Michigan St.,7,69.0,Marquette,2,60.0,9.0
+2023,Round16,136,Houston,1,81.0,Auburn,9,64.0,17.0
+2023,E8,137,Miami FL,5,85.0,Indiana,4,69.0,16.0
+2023,Round16,138,Xavier,3,84.0,Pittsburgh,11,73.0,11.0
+2023,Round8,139,Texas,2,71.0,Penn St.,10,66.0,5.0
+2023,Round16,140,Arkansas,8,72.0,Kansas,1,71.0,1.0
+2023,R64,141,Connecticut,4,70.0,Saint Mary's,5,55.0,15.0
+2023,Round8,142,Gonzaga,3,84.0,TCU,6,81.0,3.0
+2023,Round16,143,UCLA,2,68.0,Northwestern,7,63.0,5.0
+2023,R32,144,San Diego St.,5,71.0,Alabama,1,64.0,7.0
+2023,Round8,145,Creighton,6,86.0,Princeton,15,75.0,11.0
+2023,E8,146,Florida Atlantic,9,62.0,Tennessee,4,55.0,7.0
+2023,Round8,147,Kansas St.,3,98.0,Michigan St.,7,93.0,5.0
+2023,E8,148,Miami FL,5,89.0,Houston,1,75.0,14.0
+2023,Round8,149,Texas,2,83.0,Xavier,3,71.0,12.0
+2023,R64,150,Connecticut,4,88.0,Arkansas,8,65.0,23.0
+2023,Round8,151,Gonzaga,3,79.0,UCLA,2,76.0,3.0
+2023,R32,152,San Diego St.,5,57.0,Creighton,6,56.0,1.0
+2023,E8,153,Florida Atlantic,9,79.0,Kansas St.,3,76.0,3.0
+2023,E8,154,Miami FL,5,88.0,Texas,2,81.0,7.0
+2023,R64,155,Connecticut,4,82.0,Gonzaga,3,54.0,28.0
+2023,R32,156,San Diego St.,5,72.0,Florida Atlantic,9,71.0,1.0
+2023,R64,157,Connecticut,4,72.0,Miami FL,5,59.0,13.0
+2023,R64,158,Connecticut,4,76.0,San Diego St.,5,59.0,17.0
+2024,R64,33,Connecticut,1,91.0,Stetson,16,52.0,39.0
+2024,Round32,34,Northwestern,9,77.0,Florida Atlantic,8,65.0,12.0
+2024,Round16,35,San Diego St.,5,69.0,UAB,12,65.0,4.0
+2024,Round32,36,Yale,13,78.0,Auburn,4,76.0,2.0
+2024,Round32,37,Duquesne,11,71.0,BYU,6,67.0,4.0
+2024,Round8,38,Illinois,3,85.0,Morehead St.,14,69.0,16.0
+2024,Round32,39,Washington St.,7,66.0,Drake,10,61.0,5.0
+2024,Round16,40,Iowa St.,2,82.0,South Dakota St.,15,65.0,17.0
+2024,Round16,41,North Carolina,1,90.0,Wagner,16,62.0,28.0
+2024,Round32,42,Michigan St.,9,69.0,Mississippi St.,8,51.0,18.0
+2024,Round32,43,Grand Canyon,12,75.0,Saint Mary's,5,66.0,9.0
+2024,E8,44,Alabama,4,109.0,College of Charleston,13,96.0,13.0
+2024,Round8,45,Clemson,6,77.0,New Mexico,11,56.0,21.0
+2024,Round32,46,Baylor,3,92.0,Colgate,14,67.0,25.0
+2024,Round32,47,Dayton,7,63.0,Nevada,10,60.0,3.0
+2024,Round16,48,Arizona,2,85.0,Long Beach St.,15,65.0,20.0
+2024,Round16,49,Houston,1,86.0,Longwood,16,46.0,40.0
+2024,Round32,50,Texas A&M,9,98.0,Nebraska,8,83.0,15.0
+2024,Round32,51,James Madison,12,72.0,Wisconsin,5,61.0,11.0
+2024,Round8,52,Duke,4,64.0,Vermont,13,47.0,17.0
+2024,E8,53,North Carolina St.,11,80.0,Texas Tech,6,67.0,13.0
+2024,Round32,54,Oakland,14,80.0,Kentucky,3,76.0,4.0
+2024,Round32,55,Colorado,10,102.0,Florida,7,100.0,2.0
+2024,Round16,56,Marquette,2,87.0,Western Kentucky,15,69.0,18.0
+2024,R32,57,Purdue,1,78.0,Grambling St.,16,50.0,28.0
+2024,Round32,58,Utah St.,8,88.0,TCU,9,72.0,16.0
+2024,Round16,59,Gonzaga,5,86.0,McNeese St.,12,65.0,21.0
+2024,Round32,60,Kansas,4,93.0,Samford,13,89.0,4.0
+2024,Round32,61,Oregon,11,87.0,South Carolina,6,73.0,14.0
+2024,Round16,62,Creighton,3,77.0,Akron,14,60.0,17.0
+2024,Round32,63,Texas,7,56.0,Colorado St.,10,44.0,12.0
+2024,Round8,64,Tennessee,2,83.0,Saint Peter's,15,49.0,34.0
+2024,R64,65,Connecticut,1,75.0,Northwestern,9,58.0,17.0
+2024,Round16,66,San Diego St.,5,85.0,Yale,13,57.0,28.0
+2024,Round8,67,Illinois,3,89.0,Duquesne,11,63.0,26.0
+2024,Round16,68,Iowa St.,2,67.0,Washington St.,7,56.0,11.0
+2024,Round16,69,North Carolina,1,85.0,Michigan St.,9,69.0,16.0
+2024,E8,70,Alabama,4,72.0,Grand Canyon,12,61.0,11.0
+2024,Round8,71,Clemson,6,72.0,Baylor,3,64.0,8.0
+2024,Round16,72,Arizona,2,78.0,Dayton,7,68.0,10.0
+2024,Round16,73,Houston,1,100.0,Texas A&M,9,95.0,5.0
+2024,Round8,74,Duke,4,93.0,James Madison,12,55.0,38.0
+2024,E8,75,North Carolina St.,11,79.0,Oakland,14,73.0,6.0
+2024,Round16,76,Marquette,2,81.0,Colorado,10,77.0,4.0
+2024,R32,77,Purdue,1,106.0,Utah St.,8,67.0,39.0
+2024,Round16,78,Gonzaga,5,89.0,Kansas,4,68.0,21.0
+2024,Round16,79,Creighton,3,86.0,Oregon,11,73.0,13.0
+2024,Round8,80,Tennessee,2,62.0,Texas,7,58.0,4.0
+2024,R64,81,Connecticut,1,82.0,San Diego St.,5,52.0,30.0
+2024,Round8,82,Illinois,3,72.0,Iowa St.,2,69.0,3.0
+2024,E8,83,Alabama,4,89.0,North Carolina,1,87.0,2.0
+2024,Round8,84,Clemson,6,77.0,Arizona,2,72.0,5.0
+2024,Round8,85,Duke,4,54.0,Houston,1,51.0,3.0
+2024,E8,86,North Carolina St.,11,67.0,Marquette,2,58.0,9.0
+2024,R32,87,Purdue,1,80.0,Gonzaga,5,68.0,12.0
+2024,Round8,88,Tennessee,2,82.0,Creighton,3,75.0,7.0
+2024,R64,89,Connecticut,1,77.0,Illinois,3,52.0,25.0
+2024,E8,90,Alabama,4,89.0,Clemson,6,82.0,7.0
+2024,E8,91,North Carolina St.,11,76.0,Duke,4,64.0,12.0
+2024,R32,92,Purdue,1,72.0,Tennessee,2,66.0,6.0
+2024,R64,93,Connecticut,1,86.0,Alabama,4,72.0,14.0
+2024,R32,94,Purdue,1,63.0,North Carolina St.,11,50.0,13.0
+2024,R64,95,Connecticut,1,75.0,Purdue,1,60.0,15.0

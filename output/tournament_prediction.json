@@ -1,0 +1,735 @@
+{
+  "bracket": {
+    "East": {
+      "R64_1_vs_16": {
+        "teams": [
+          "Auburn",
+          "Alabama St."
+        ],
+        "seeds": [
+          1,
+          16
+        ]
+      },
+      "R64_8_vs_9": {
+        "teams": [
+          "Louisville",
+          "Creighton"
+        ],
+        "seeds": [
+          8,
+          9
+        ]
+      },
+      "R64_5_vs_12": {
+        "teams": [
+          "Michigan",
+          "UC San Diego"
+        ],
+        "seeds": [
+          5,
+          12
+        ]
+      },
+      "R64_4_vs_13": {
+        "teams": [
+          "Texas A&M",
+          "Yale"
+        ],
+        "seeds": [
+          4,
+          13
+        ]
+      },
+      "R64_6_vs_11": {
+        "teams": [
+          "Mississippi",
+          "North Carolina"
+        ],
+        "seeds": [
+          6,
+          11
+        ]
+      },
+      "R64_3_vs_14": {
+        "teams": [
+          "Iowa St.",
+          "Lipscomb"
+        ],
+        "seeds": [
+          3,
+          14
+        ]
+      },
+      "R64_7_vs_10": {
+        "teams": [
+          "Marquette",
+          "New Mexico"
+        ],
+        "seeds": [
+          7,
+          10
+        ]
+      },
+      "R64_2_vs_15": {
+        "teams": [
+          "Michigan St.",
+          "Bryant"
+        ],
+        "seeds": [
+          2,
+          15
+        ]
+      }
+    },
+    "West": {
+      "R64_1_vs_16": {
+        "teams": [
+          "Florida",
+          "Norfolk St."
+        ],
+        "seeds": [
+          1,
+          16
+        ]
+      },
+      "R64_8_vs_9": {
+        "teams": [
+          "Connecticut",
+          "Oklahoma"
+        ],
+        "seeds": [
+          8,
+          9
+        ]
+      },
+      "R64_5_vs_12": {
+        "teams": [
+          "Memphis",
+          "Colorado St."
+        ],
+        "seeds": [
+          5,
+          12
+        ]
+      },
+      "R64_4_vs_13": {
+        "teams": [
+          "Maryland",
+          "Grand Canyon"
+        ],
+        "seeds": [
+          4,
+          13
+        ]
+      },
+      "R64_6_vs_11": {
+        "teams": [
+          "Missouri",
+          "Drake"
+        ],
+        "seeds": [
+          6,
+          11
+        ]
+      },
+      "R64_3_vs_14": {
+        "teams": [
+          "Texas Tech",
+          "North Carolina Wilmington"
+        ],
+        "seeds": [
+          3,
+          14
+        ]
+      },
+      "R64_7_vs_10": {
+        "teams": [
+          "Kansas",
+          "Arkansas"
+        ],
+        "seeds": [
+          7,
+          10
+        ]
+      },
+      "R64_2_vs_15": {
+        "teams": [
+          "St. John's",
+          "Nebraska Omaha"
+        ],
+        "seeds": [
+          2,
+          15
+        ]
+      }
+    },
+    "South": {
+      "R64_1_vs_16": {
+        "teams": [
+          "Duke",
+          "American"
+        ],
+        "seeds": [
+          1,
+          16
+        ]
+      },
+      "R64_8_vs_9": {
+        "teams": [
+          "Mississippi St.",
+          "Baylor"
+        ],
+        "seeds": [
+          8,
+          9
+        ]
+      },
+      "R64_5_vs_12": {
+        "teams": [
+          "Oregon",
+          "Liberty"
+        ],
+        "seeds": [
+          5,
+          12
+        ]
+      },
+      "R64_4_vs_13": {
+        "teams": [
+          "Arizona",
+          "Akron"
+        ],
+        "seeds": [
+          4,
+          13
+        ]
+      },
+      "R64_6_vs_11": {
+        "teams": [
+          "BYU",
+          "VCU"
+        ],
+        "seeds": [
+          6,
+          11
+        ]
+      },
+      "R64_3_vs_14": {
+        "teams": [
+          "Wisconsin",
+          "Montana"
+        ],
+        "seeds": [
+          3,
+          14
+        ]
+      },
+      "R64_7_vs_10": {
+        "teams": [
+          "St. Mary's",
+          "Vanderbilt"
+        ],
+        "seeds": [
+          7,
+          10
+        ]
+      },
+      "R64_2_vs_15": {
+        "teams": [
+          "Alabama",
+          "Robert Morris"
+        ],
+        "seeds": [
+          2,
+          15
+        ]
+      }
+    },
+    "Midwest": {
+      "R64_1_vs_16": {
+        "teams": [
+          "Houston",
+          "SIU Edwardsville"
+        ],
+        "seeds": [
+          1,
+          16
+        ]
+      },
+      "R64_8_vs_9": {
+        "teams": [
+          "Gonzaga",
+          "Georgia"
+        ],
+        "seeds": [
+          8,
+          9
+        ]
+      },
+      "R64_5_vs_12": {
+        "teams": [
+          "Clemson",
+          "McNeese St."
+        ],
+        "seeds": [
+          5,
+          12
+        ]
+      },
+      "R64_4_vs_13": {
+        "teams": [
+          "Purdue",
+          "High Point"
+        ],
+        "seeds": [
+          4,
+          13
+        ]
+      },
+      "R64_6_vs_11": {
+        "teams": [
+          "Illinois",
+          "Texas"
+        ],
+        "seeds": [
+          6,
+          11
+        ]
+      },
+      "R64_3_vs_14": {
+        "teams": [
+          "Kentucky",
+          "Troy"
+        ],
+        "seeds": [
+          3,
+          14
+        ]
+      },
+      "R64_7_vs_10": {
+        "teams": [
+          "UCLA",
+          "Utah St."
+        ],
+        "seeds": [
+          7,
+          10
+        ]
+      },
+      "R64_2_vs_15": {
+        "teams": [
+          "Tennessee",
+          "Wofford"
+        ],
+        "seeds": [
+          2,
+          15
+        ]
+      }
+    }
+  },
+  "results": {
+    "East": {
+      "R64": [
+        {
+          "team": "Auburn",
+          "seed": 1,
+          "probability": 0.7883508765268471,
+          "matchup": "1_vs_16"
+        },
+        {
+          "team": "Louisville",
+          "seed": 8,
+          "probability": 0.5543373596176917,
+          "matchup": "8_vs_9"
+        },
+        {
+          "team": "UC San Diego",
+          "seed": 12,
+          "probability": 0.6238096875547241,
+          "matchup": "5_vs_12"
+        },
+        {
+          "team": "Texas A&M",
+          "seed": 4,
+          "probability": 0.5227677710149642,
+          "matchup": "4_vs_13"
+        },
+        {
+          "team": "North Carolina",
+          "seed": 11,
+          "probability": 0.5091024664263967,
+          "matchup": "6_vs_11"
+        },
+        {
+          "team": "Iowa St.",
+          "seed": 3,
+          "probability": 0.6030765011066289,
+          "matchup": "3_vs_14"
+        },
+        {
+          "team": "Marquette",
+          "seed": 7,
+          "probability": 0.652464114994815,
+          "matchup": "7_vs_10"
+        },
+        {
+          "team": "Michigan St.",
+          "seed": 2,
+          "probability": 0.6926734598470755,
+          "matchup": "2_vs_15"
+        }
+      ],
+      "R32": [
+        {
+          "team": "Auburn",
+          "seed": 1,
+          "probability": 0.7898793550647945
+        },
+        {
+          "team": "UC San Diego",
+          "seed": 12,
+          "probability": 0.5207163185393653
+        },
+        {
+          "team": "Iowa St.",
+          "seed": 3,
+          "probability": 0.5492625210904618
+        },
+        {
+          "team": "Michigan St.",
+          "seed": 2,
+          "probability": 0.5194775470652235
+        }
+      ],
+      "S16": [
+        {
+          "team": "Auburn",
+          "seed": 1,
+          "probability": 0.7784795601546033
+        },
+        {
+          "team": "Iowa St.",
+          "seed": 3,
+          "probability": 0.5329033270975787
+        }
+      ],
+      "E8": [
+        {
+          "team": "Auburn",
+          "seed": 1,
+          "probability": 0.7554471946526868,
+          "region": "East"
+        }
+      ]
+    },
+    "West": {
+      "R64": [
+        {
+          "team": "Florida",
+          "seed": 1,
+          "probability": 0.857689528024436,
+          "matchup": "1_vs_16"
+        },
+        {
+          "team": "Connecticut",
+          "seed": 8,
+          "probability": 0.563906893416956,
+          "matchup": "8_vs_9"
+        },
+        {
+          "team": "Colorado St.",
+          "seed": 12,
+          "probability": 0.7249948505473639,
+          "matchup": "5_vs_12"
+        },
+        {
+          "team": "Maryland",
+          "seed": 4,
+          "probability": 0.7721869661564053,
+          "matchup": "4_vs_13"
+        },
+        {
+          "team": "Missouri",
+          "seed": 6,
+          "probability": 0.6334089907072357,
+          "matchup": "6_vs_11"
+        },
+        {
+          "team": "Texas Tech",
+          "seed": 3,
+          "probability": 0.9993300049607649,
+          "matchup": "3_vs_14"
+        },
+        {
+          "team": "Kansas",
+          "seed": 7,
+          "probability": 0.5873111836983137,
+          "matchup": "7_vs_10"
+        },
+        {
+          "team": "Nebraska Omaha",
+          "seed": 15,
+          "probability": 0.5199164407505321,
+          "matchup": "2_vs_15"
+        }
+      ],
+      "R32": [
+        {
+          "team": "Florida",
+          "seed": 1,
+          "probability": 0.7657974095555837
+        },
+        {
+          "team": "Maryland",
+          "seed": 4,
+          "probability": 0.5179348931489511
+        },
+        {
+          "team": "Texas Tech",
+          "seed": 3,
+          "probability": 0.5414461138725278
+        },
+        {
+          "team": "Kansas",
+          "seed": 7,
+          "probability": 0.5288972709556797
+        }
+      ],
+      "S16": [
+        {
+          "team": "Florida",
+          "seed": 1,
+          "probability": 0.7959831399868891
+        },
+        {
+          "team": "Texas Tech",
+          "seed": 3,
+          "probability": 0.6840975385398128
+        }
+      ],
+      "E8": [
+        {
+          "team": "Florida",
+          "seed": 1,
+          "probability": 0.6860134849695454,
+          "region": "West"
+        }
+      ]
+    },
+    "South": {
+      "R64": [
+        {
+          "team": "Duke",
+          "seed": 1,
+          "probability": 0.8567532816309069,
+          "matchup": "1_vs_16"
+        },
+        {
+          "team": "Baylor",
+          "seed": 9,
+          "probability": 0.5757271017201611,
+          "matchup": "8_vs_9"
+        },
+        {
+          "team": "Oregon",
+          "seed": 5,
+          "probability": 0.5132972628203846,
+          "matchup": "5_vs_12"
+        },
+        {
+          "team": "Arizona",
+          "seed": 4,
+          "probability": 0.6755470952757081,
+          "matchup": "4_vs_13"
+        },
+        {
+          "team": "BYU",
+          "seed": 6,
+          "probability": 0.5254830626357205,
+          "matchup": "6_vs_11"
+        },
+        {
+          "team": "Wisconsin",
+          "seed": 3,
+          "probability": 0.6394007340013629,
+          "matchup": "3_vs_14"
+        },
+        {
+          "team": "Vanderbilt",
+          "seed": 10,
+          "probability": 0.9964994548388377,
+          "matchup": "7_vs_10"
+        },
+        {
+          "team": "Alabama",
+          "seed": 2,
+          "probability": 0.7109634903199896,
+          "matchup": "2_vs_15"
+        }
+      ],
+      "R32": [
+        {
+          "team": "Duke",
+          "seed": 1,
+          "probability": 0.7828003640414687
+        },
+        {
+          "team": "Arizona",
+          "seed": 4,
+          "probability": 0.6135766223896165
+        },
+        {
+          "team": "Wisconsin",
+          "seed": 3,
+          "probability": 0.5016516541210119
+        },
+        {
+          "team": "Alabama",
+          "seed": 2,
+          "probability": 0.6085298156783914
+        }
+      ],
+      "S16": [
+        {
+          "team": "Duke",
+          "seed": 1,
+          "probability": 0.7997628080747049
+        },
+        {
+          "team": "Alabama",
+          "seed": 2,
+          "probability": 0.5217376010583035
+        }
+      ],
+      "E8": [
+        {
+          "team": "Duke",
+          "seed": 1,
+          "probability": 0.779984996794471,
+          "region": "South"
+        }
+      ]
+    },
+    "Midwest": {
+      "R64": [
+        {
+          "team": "Houston",
+          "seed": 1,
+          "probability": 0.8439551552913737,
+          "matchup": "1_vs_16"
+        },
+        {
+          "team": "Gonzaga",
+          "seed": 8,
+          "probability": 0.644681077478375,
+          "matchup": "8_vs_9"
+        },
+        {
+          "team": "Clemson",
+          "seed": 5,
+          "probability": 0.8733255041906497,
+          "matchup": "5_vs_12"
+        },
+        {
+          "team": "Purdue",
+          "seed": 4,
+          "probability": 0.6054015081420334,
+          "matchup": "4_vs_13"
+        },
+        {
+          "team": "Illinois",
+          "seed": 6,
+          "probability": 0.5596358300674669,
+          "matchup": "6_vs_11"
+        },
+        {
+          "team": "Kentucky",
+          "seed": 3,
+          "probability": 0.7078133259089893,
+          "matchup": "3_vs_14"
+        },
+        {
+          "team": "Utah St.",
+          "seed": 10,
+          "probability": 0.5497703960878826,
+          "matchup": "7_vs_10"
+        },
+        {
+          "team": "Tennessee",
+          "seed": 2,
+          "probability": 0.6788751436414934,
+          "matchup": "2_vs_15"
+        }
+      ],
+      "R32": [
+        {
+          "team": "Houston",
+          "seed": 1,
+          "probability": 0.6735737714775084
+        },
+        {
+          "team": "Purdue",
+          "seed": 4,
+          "probability": 0.5548517574799927
+        },
+        {
+          "team": "Kentucky",
+          "seed": 3,
+          "probability": 0.5642342084070198
+        },
+        {
+          "team": "Tennessee",
+          "seed": 2,
+          "probability": 0.6604031089694069
+        }
+      ],
+      "S16": [
+        {
+          "team": "Houston",
+          "seed": 1,
+          "probability": 0.6929768908098758
+        },
+        {
+          "team": "Tennessee",
+          "seed": 2,
+          "probability": 0.6126327578209652
+        }
+      ],
+      "E8": [
+        {
+          "team": "Houston",
+          "seed": 1,
+          "probability": 0.6243385413300172,
+          "region": "Midwest"
+        }
+      ]
+    },
+    "Final Four": {
+      "F4": [
+        {
+          "team": "Florida",
+          "seed": 1,
+          "region": "West",
+          "probability": 0.5284946985109478
+        },
+        {
+          "team": "Duke",
+          "seed": 1,
+          "region": "South",
+          "probability": 0.583594485189402
+        }
+      ],
+      "NCG": [
+        {
+          "team": "Duke",
+          "seed": 1,
+          "region": "South",
+          "probability": 0.5469874835211356
+        }
+      ]
+    }
+  },
+  "champion": "Duke"
+}
