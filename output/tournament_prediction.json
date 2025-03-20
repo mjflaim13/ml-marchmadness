@@ -335,49 +335,49 @@
         {
           "team": "Auburn",
           "seed": 1,
-          "probability": 0.7883508765268471,
+          "probability": 0.7288277833881833,
           "matchup": "1_vs_16"
         },
         {
-          "team": "Louisville",
-          "seed": 8,
-          "probability": 0.5543373596176917,
+          "team": "Creighton",
+          "seed": 9,
+          "probability": 0.40866577875635696,
           "matchup": "8_vs_9"
         },
         {
           "team": "UC San Diego",
           "seed": 12,
-          "probability": 0.6238096875547241,
+          "probability": 0.2856657476811012,
           "matchup": "5_vs_12"
         },
         {
           "team": "Texas A&M",
           "seed": 4,
-          "probability": 0.5227677710149642,
+          "probability": 0.5386520784830224,
           "matchup": "4_vs_13"
         },
         {
-          "team": "North Carolina",
-          "seed": 11,
-          "probability": 0.5091024664263967,
+          "team": "Mississippi",
+          "seed": 6,
+          "probability": 0.5736904751848408,
           "matchup": "6_vs_11"
         },
         {
           "team": "Iowa St.",
           "seed": 3,
-          "probability": 0.6030765011066289,
+          "probability": 0.8273266535556445,
           "matchup": "3_vs_14"
         },
         {
           "team": "Marquette",
           "seed": 7,
-          "probability": 0.652464114994815,
+          "probability": 0.8526979042934159,
           "matchup": "7_vs_10"
         },
         {
           "team": "Michigan St.",
           "seed": 2,
-          "probability": 0.6926734598470755,
+          "probability": 0.5905894164993619,
           "matchup": "2_vs_15"
         }
       ],
@@ -385,41 +385,41 @@
         {
           "team": "Auburn",
           "seed": 1,
-          "probability": 0.7898793550647945
+          "probability": 0.9163833481926801
         },
         {
           "team": "UC San Diego",
           "seed": 12,
-          "probability": 0.5207163185393653
+          "probability": 0.6518518757795428
         },
         {
           "team": "Iowa St.",
           "seed": 3,
-          "probability": 0.5492625210904618
+          "probability": 0.3323316020968332
         },
         {
           "team": "Michigan St.",
           "seed": 2,
-          "probability": 0.5194775470652235
+          "probability": 0.4885301042331367
         }
       ],
       "S16": [
         {
           "team": "Auburn",
           "seed": 1,
-          "probability": 0.7784795601546033
+          "probability": 0.7363169351319199
         },
         {
-          "team": "Iowa St.",
-          "seed": 3,
-          "probability": 0.5329033270975787
+          "team": "Michigan St.",
+          "seed": 2,
+          "probability": 0.3083311220915705
         }
       ],
       "E8": [
         {
           "team": "Auburn",
           "seed": 1,
-          "probability": 0.7554471946526868,
+          "probability": 0.7276742132567255,
           "region": "East"
         }
       ]
@@ -429,49 +429,49 @@
         {
           "team": "Florida",
           "seed": 1,
-          "probability": 0.857689528024436,
+          "probability": 0.8162153135349316,
           "matchup": "1_vs_16"
         },
         {
           "team": "Connecticut",
           "seed": 8,
-          "probability": 0.563906893416956,
+          "probability": 0.6526517623610745,
           "matchup": "8_vs_9"
         },
         {
           "team": "Colorado St.",
           "seed": 12,
-          "probability": 0.7249948505473639,
+          "probability": 0.1660640381797533,
           "matchup": "5_vs_12"
         },
         {
           "team": "Maryland",
           "seed": 4,
-          "probability": 0.7721869661564053,
+          "probability": 0.8952937230051455,
           "matchup": "4_vs_13"
         },
         {
           "team": "Missouri",
           "seed": 6,
-          "probability": 0.6334089907072357,
+          "probability": 0.7005975092607256,
           "matchup": "6_vs_11"
         },
         {
           "team": "Texas Tech",
           "seed": 3,
-          "probability": 0.9993300049607649,
+          "probability": 0.8379068958800836,
           "matchup": "3_vs_14"
         },
         {
           "team": "Kansas",
           "seed": 7,
-          "probability": 0.5873111836983137,
+          "probability": 0.5053275934183727,
           "matchup": "7_vs_10"
         },
         {
-          "team": "Nebraska Omaha",
-          "seed": 15,
-          "probability": 0.5199164407505321,
+          "team": "St. John's",
+          "seed": 2,
+          "probability": 0.6100327154617854,
           "matchup": "2_vs_15"
         }
       ],
@@ -479,41 +479,41 @@
         {
           "team": "Florida",
           "seed": 1,
-          "probability": 0.7657974095555837
+          "probability": 0.5442701461907926
         },
         {
           "team": "Maryland",
           "seed": 4,
-          "probability": 0.5179348931489511
+          "probability": 0.3318992209789059
         },
         {
           "team": "Texas Tech",
           "seed": 3,
-          "probability": 0.5414461138725278
+          "probability": 0.31236345916462444
         },
         {
           "team": "Kansas",
           "seed": 7,
-          "probability": 0.5288972709556797
+          "probability": 0.5453875162920419
         }
       ],
       "S16": [
         {
           "team": "Florida",
           "seed": 1,
-          "probability": 0.7959831399868891
+          "probability": 0.6786298270634028
         },
         {
           "team": "Texas Tech",
           "seed": 3,
-          "probability": 0.6840975385398128
+          "probability": 0.6844429404600586
         }
       ],
       "E8": [
         {
           "team": "Florida",
           "seed": 1,
-          "probability": 0.6860134849695454,
+          "probability": 0.7586749466680242,
           "region": "West"
         }
       ]
@@ -523,49 +523,49 @@
         {
           "team": "Duke",
           "seed": 1,
-          "probability": 0.8567532816309069,
+          "probability": 0.7170432305383481,
           "matchup": "1_vs_16"
         },
         {
           "team": "Baylor",
           "seed": 9,
-          "probability": 0.5757271017201611,
+          "probability": 0.38535092194745485,
           "matchup": "8_vs_9"
         },
         {
-          "team": "Oregon",
-          "seed": 5,
-          "probability": 0.5132972628203846,
+          "team": "Liberty",
+          "seed": 12,
+          "probability": 0.4871750491802283,
           "matchup": "5_vs_12"
         },
         {
           "team": "Arizona",
           "seed": 4,
-          "probability": 0.6755470952757081,
+          "probability": 0.871638081091891,
           "matchup": "4_vs_13"
         },
         {
           "team": "BYU",
           "seed": 6,
-          "probability": 0.5254830626357205,
+          "probability": 0.5129824544721128,
           "matchup": "6_vs_11"
         },
         {
           "team": "Wisconsin",
           "seed": 3,
-          "probability": 0.6394007340013629,
+          "probability": 0.7541595466871612,
           "matchup": "3_vs_14"
         },
         {
           "team": "Vanderbilt",
           "seed": 10,
-          "probability": 0.9964994548388377,
+          "probability": 0.3009480297604473,
           "matchup": "7_vs_10"
         },
         {
           "team": "Alabama",
           "seed": 2,
-          "probability": 0.7109634903199896,
+          "probability": 0.7219849415618372,
           "matchup": "2_vs_15"
         }
       ],
@@ -573,41 +573,41 @@
         {
           "team": "Duke",
           "seed": 1,
-          "probability": 0.7828003640414687
+          "probability": 0.9000784067300209
         },
         {
           "team": "Arizona",
           "seed": 4,
-          "probability": 0.6135766223896165
+          "probability": 0.44634854244149375
         },
         {
           "team": "Wisconsin",
           "seed": 3,
-          "probability": 0.5016516541210119
+          "probability": 0.4935312806222112
         },
         {
           "team": "Alabama",
           "seed": 2,
-          "probability": 0.6085298156783914
+          "probability": 0.31668864379325873
         }
       ],
       "S16": [
         {
           "team": "Duke",
           "seed": 1,
-          "probability": 0.7997628080747049
+          "probability": 0.9036598275597869
         },
         {
-          "team": "Alabama",
-          "seed": 2,
-          "probability": 0.5217376010583035
+          "team": "Wisconsin",
+          "seed": 3,
+          "probability": 0.6167600893193439
         }
       ],
       "E8": [
         {
           "team": "Duke",
           "seed": 1,
-          "probability": 0.779984996794471,
+          "probability": 0.8994475227432523,
           "region": "South"
         }
       ]
@@ -617,49 +617,49 @@
         {
           "team": "Houston",
           "seed": 1,
-          "probability": 0.8439551552913737,
+          "probability": 0.8358122763643822,
           "matchup": "1_vs_16"
         },
         {
-          "team": "Gonzaga",
-          "seed": 8,
-          "probability": 0.644681077478375,
+          "team": "Georgia",
+          "seed": 9,
+          "probability": 0.39492211701596247,
           "matchup": "8_vs_9"
         },
         {
           "team": "Clemson",
           "seed": 5,
-          "probability": 0.8733255041906497,
+          "probability": 0.8997670941004564,
           "matchup": "5_vs_12"
         },
         {
           "team": "Purdue",
           "seed": 4,
-          "probability": 0.6054015081420334,
+          "probability": 0.819034884263391,
           "matchup": "4_vs_13"
         },
         {
-          "team": "Illinois",
-          "seed": 6,
-          "probability": 0.5596358300674669,
+          "team": "Texas",
+          "seed": 11,
+          "probability": 0.4462006734444389,
           "matchup": "6_vs_11"
         },
         {
           "team": "Kentucky",
           "seed": 3,
-          "probability": 0.7078133259089893,
+          "probability": 0.7007908036090067,
           "matchup": "3_vs_14"
         },
         {
           "team": "Utah St.",
           "seed": 10,
-          "probability": 0.5497703960878826,
+          "probability": 0.15631896984065521,
           "matchup": "7_vs_10"
         },
         {
           "team": "Tennessee",
           "seed": 2,
-          "probability": 0.6788751436414934,
+          "probability": 0.8498920220814128,
           "matchup": "2_vs_15"
         }
       ],
@@ -667,41 +667,41 @@
         {
           "team": "Houston",
           "seed": 1,
-          "probability": 0.6735737714775084
+          "probability": 0.918041860370497
         },
         {
           "team": "Purdue",
           "seed": 4,
-          "probability": 0.5548517574799927
+          "probability": 0.4263809723763566
         },
         {
-          "team": "Kentucky",
-          "seed": 3,
-          "probability": 0.5642342084070198
+          "team": "Texas",
+          "seed": 11,
+          "probability": 0.6624583486453484
         },
         {
-          "team": "Tennessee",
-          "seed": 2,
-          "probability": 0.6604031089694069
+          "team": "Utah St.",
+          "seed": 10,
+          "probability": 0.552662121917743
         }
       ],
       "S16": [
         {
-          "team": "Houston",
-          "seed": 1,
-          "probability": 0.6929768908098758
+          "team": "Purdue",
+          "seed": 4,
+          "probability": 0.4720752418344614
         },
         {
-          "team": "Tennessee",
-          "seed": 2,
-          "probability": 0.6126327578209652
+          "team": "Utah St.",
+          "seed": 10,
+          "probability": 0.3433250558545217
         }
       ],
       "E8": [
         {
-          "team": "Houston",
-          "seed": 1,
-          "probability": 0.6243385413300172,
+          "team": "Purdue",
+          "seed": 4,
+          "probability": 0.6207114309359225,
           "region": "Midwest"
         }
       ]
@@ -709,16 +709,16 @@
     "Final Four": {
       "F4": [
         {
-          "team": "Florida",
+          "team": "Auburn",
           "seed": 1,
-          "region": "West",
-          "probability": 0.5284946985109478
+          "region": "East",
+          "probability": 0.7016366907355336
         },
         {
           "team": "Duke",
           "seed": 1,
           "region": "South",
-          "probability": 0.583594485189402
+          "probability": 0.7834904395345728
         }
       ],
       "NCG": [
@@ -726,7 +726,7 @@
           "team": "Duke",
           "seed": 1,
           "region": "South",
-          "probability": 0.5469874835211356
+          "probability": 0.436653723687862
         }
       ]
     }

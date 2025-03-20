@@ -1,11 +1,28 @@
 # predict_bracket.py
+from enhanced_prediction import predict_with_enhanced_model
 import pandas as pd
 import numpy as np
 import os
 import pickle
 import json
 from sklearn.preprocessing import StandardScaler
-
+def predict_with_enhanced_model(model_info, X):
+    """Make predictions using enhanced model"""
+    # Preprocess data
+    X_imputed = model_info['imputer'].transform(X)
+    X_scaled = model_info['scaler'].transform(X_imputed)
+    
+    # Check if we have a voting ensemble or single model
+    if 'voting_ensemble' in model_info:
+        # Get predictions from voting ensemble
+        predictions = model_info['voting_ensemble'].predict(X_scaled)
+        probabilities = model_info['voting_ensemble'].predict_proba(X_scaled)[:, 1]
+    else:
+        # Use standard model
+        predictions = model_info['model'].predict(X_scaled)
+        probabilities = model_info['model'].predict_proba(X_scaled)[:, 1] if hasattr(model_info['model'], 'predict_proba') else predictions
+    
+    return predictions, probabilities
 def make_json_serializable(obj):
     """Convert numpy types to Python native types for JSON serialization"""
     if isinstance(obj, (np.integer, np.int64, np.int32)):
@@ -22,14 +39,24 @@ def make_json_serializable(obj):
         return obj
 
 def load_model():
-    """Load the trained model"""
-    model_path = 'models/final_model.pkl'
+    """Load the trained model, preferring enhanced model if available"""
+    enhanced_model_path = 'models/enhanced_model.pkl'
+    standard_model_path = 'models/final_model.pkl'
     
-    if not os.path.exists(model_path):
-        raise FileNotFoundError("Model not found. Run model_training.py first.")
-    
-    with open(model_path, 'rb') as f:
-        model_info = pickle.load(f)
+    if os.path.exists(enhanced_model_path):
+        print("Using enhanced ensemble model for predictions")
+        with open(enhanced_model_path, 'rb') as f:
+            model_info = pickle.load(f)
+        # Flag as enhanced model
+        model_info['is_enhanced'] = True
+    elif os.path.exists(standard_model_path):
+        print("Using standard model for predictions")
+        with open(standard_model_path, 'rb') as f:
+            model_info = pickle.load(f)
+        # Flag as standard model
+        model_info['is_enhanced'] = False
+    else:
+        raise FileNotFoundError("No model found. Run model_training.py or run_enhanced_ml.py first.")
     
     return model_info
 
@@ -189,9 +216,6 @@ def predict_matchup(model_info, features):
     """
     Predict the winner of a matchup
     """
-    model = model_info['model']
-    scaler = model_info['scaler']
-    
     # Convert features to DataFrame
     features_df = pd.DataFrame([features])
     
@@ -202,7 +226,6 @@ def predict_matchup(model_info, features):
         missing_features = set(model_features) - set(features_df.columns)
         
         if missing_features:
-            print(f"Warning: Missing features for prediction: {missing_features}")
             # Add missing features with zero values
             for feature in missing_features:
                 features_df[feature] = 0.0
@@ -210,21 +233,30 @@ def predict_matchup(model_info, features):
         # Ensure correct order
         features_df = features_df[model_features]
     
-    # Scale features
-    features_scaled = scaler.transform(features_df)
-    
-    # Make prediction
-    prediction = model.predict(features_scaled)[0]
-    
-    # Get probability if available
-    if hasattr(model, 'predict_proba'):
-        probabilities = model.predict_proba(features_scaled)[0]
-        probability = probabilities[1] if prediction == 1 else probabilities[0]
+    # Check if we're using the enhanced model
+    if model_info.get('is_enhanced', False):
+        # Make prediction using enhanced model
+        prediction, probability = predict_with_enhanced_model(model_info, features_df)
+        return prediction[0], probability[0]
     else:
-        probability = 0.5
-    
-    return prediction, probability
-
+        # Original model prediction logic
+        model = model_info['model']
+        scaler = model_info['scaler']
+        
+        # Scale features
+        features_scaled = scaler.transform(features_df)
+        
+        # Make prediction
+        prediction = model.predict(features_scaled)[0]
+        
+        # Get probability if available
+        if hasattr(model, 'predict_proba'):
+            probabilities = model.predict_proba(features_scaled)[0]
+            probability = probabilities[1] if prediction == 1 else probabilities[0]
+        else:
+            probability = 0.5
+        
+        return prediction, probability
 def simulate_tournament(model_info, bracket_df, kenpom_df, additional_data):
     """
     Simulate the entire tournament bracket with proper NCAA advancement structure
